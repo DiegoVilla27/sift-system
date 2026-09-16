@@ -1,77 +1,37 @@
 "use client";
 
 import React from "react";
-import { LayoutGrid, Table, Columns3 } from "lucide-react";
-import { cn } from "@/shared/lib/utils";
+import { LayoutGrid, Table2 } from "lucide-react";
 
-export type ViewMode = "grid" | "table" | "kanban";
+export type ViewMode = "grid" | "table";
 
 interface ViewModeToggleProps {
   mode: ViewMode;
   onChange: (mode: ViewMode) => void;
-  showKanban?: boolean;
-  className?: string;
 }
 
-export const ViewModeToggle: React.FC<ViewModeToggleProps> = ({
-  mode,
-  onChange,
-  showKanban,
-  className,
-}) => {
+export function ViewModeToggle({ mode, onChange }: ViewModeToggleProps) {
+  const options = [
+    { value: "grid" as ViewMode, icon: LayoutGrid, label: "Cuadrícula" },
+    { value: "table" as ViewMode, icon: Table2, label: "Tabla" },
+  ] as const;
+
   return (
-    <div
-      className={cn(
-        "inline-flex items-center p-0.5 rounded-lg bg-slate-900 border border-slate-800",
-        className
-      )}
-    >
-      <button
-        type="button"
-        onClick={() => onChange("grid")}
-        className={cn(
-          "flex items-center gap-1.5 px-2.5 py-1 text-xs font-medium rounded-md transition-all",
-          mode === "grid"
-            ? "bg-slate-800 text-white shadow-sm border border-slate-700/60"
-            : "text-slate-400 hover:text-slate-200 hover:bg-slate-850"
-        )}
-        title="Vista en Cuadrícula (Cards)"
-      >
-        <LayoutGrid className="w-3.5 h-3.5" />
-        <span className="hidden sm:inline">Cuadrícula</span>
-      </button>
-
-      <button
-        type="button"
-        onClick={() => onChange("table")}
-        className={cn(
-          "flex items-center gap-1.5 px-2.5 py-1 text-xs font-medium rounded-md transition-all",
-          mode === "table"
-            ? "bg-slate-800 text-white shadow-sm border border-slate-700/60"
-            : "text-slate-400 hover:text-slate-200 hover:bg-slate-850"
-        )}
-        title="Vista en Tabla"
-      >
-        <Table className="w-3.5 h-3.5" />
-        <span className="hidden sm:inline">Tabla</span>
-      </button>
-
-      {showKanban && (
+    <div className="flex items-center gap-0.5 p-0.5 rounded-lg bg-slate-800/60 border border-slate-700/50">
+      {options.map(({ value, icon: Icon, label }) => (
         <button
-          type="button"
-          onClick={() => onChange("kanban")}
-          className={cn(
-            "flex items-center gap-1.5 px-2.5 py-1 text-xs font-medium rounded-md transition-all",
-            mode === "kanban"
-              ? "bg-slate-800 text-white shadow-sm border border-slate-700/60"
-              : "text-slate-400 hover:text-slate-200 hover:bg-slate-850"
-          )}
-          title="Vista Tablero Kanban"
+          key={value}
+          onClick={() => onChange(value)}
+          title={label}
+          className={`p-1.5 rounded-md transition-all ${
+            mode === value
+              ? "bg-blue-600/20 text-blue-400 shadow-sm"
+              : "text-slate-500 hover:text-slate-300"
+          }`}
         >
-          <Columns3 className="w-3.5 h-3.5 text-blue-400" />
-          <span className="hidden sm:inline">Kanban</span>
+          <Icon className="w-3.5 h-3.5" />
         </button>
-      )}
+      ))}
     </div>
   );
-};
+}

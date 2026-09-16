@@ -35,7 +35,7 @@ export async function fetchRemoteOKJobs(): Promise<RawIngestedJob[]> {
         sourcePlatform: "RemoteOK",
         rawDescription: (item.description || "").replace(/<[^>]+>/g, " ").slice(0, 4000),
         companySlug: item.company_slug || "remoteok",
-        regionHint: "GLOBAL",
+        regionHint: "LATAM",
       });
     }
 

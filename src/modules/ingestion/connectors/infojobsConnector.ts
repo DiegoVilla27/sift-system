@@ -1,70 +1,69 @@
-import { chromium } from "playwright";
 import { RawIngestedJob } from "./greenhouseConnector";
 
+/**
+ * Conector para InfoJobs España.
+ * Usa fetch con HTML scraping (sin Playwright) para extraer ofertas frontend.
+ */
 export async function fetchInfoJobsSpain(): Promise<RawIngestedJob[]> {
   const jobs: RawIngestedJob[] = [];
-  let browser = null;
 
   try {
-    browser = await chromium.launch({
-      headless: true,
-      args: ["--no-sandbox", "--disable-setuid-sandbox"],
-    });
-
-    const context = await browser.newContext({
-      userAgent:
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-      viewport: { width: 1280, height: 800 },
-    });
-
-    const page = await context.newPage();
-    await page.goto(
-      "https://www.infojobs.net/jobsearch/search-results/list.xhtml?keyword=Frontend",
-      { waitUntil: "domcontentloaded", timeout: 25000 }
+    const res = await fetch(
+      "https://www.infojobs.net/jobsearch/search-results/list.xhtml?keyword=Frontend+Developer",
+      {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+          Accept: "text/html,application/xhtml+xml,application/xml",
+          "Accept-Language": "es-ES,es;q=0.9",
+        },
+        next: { revalidate: 3600 },
+      }
     );
 
-    // Wait a brief moment for initial cards to mount
-    await page.waitForTimeout(2500);
+    if (!res.ok) return [];
 
-    const scraped = await page.evaluate(() => {
-      const anchors = Array.from(document.querySelectorAll('a[href*="/of-i"]'));
-      const results: { title: string; href: string }[] = [];
-      const seen = new Set<string>();
+    const html = await res.text();
 
-      for (const a of anchors) {
-        const text = (a.textContent || "").trim();
-        const href = (a as HTMLAnchorElement).href;
-        if (text.length > 5 && !seen.has(href)) {
-          seen.add(href);
-          results.push({ title: text, href });
-        }
-      }
-      return results;
-    });
+    // Extraer links de ofertas: /of-i... pattern
+    const linkRegex = /<a[^>]*href="([^"]*\/of-i[^"]*)"[^>]*>([^<]+)<\/a>/gi;
+    const seenUrls = new Set<string>();
+    let match;
 
-    for (let i = 0; i < scraped.length; i++) {
-      const item = scraped[i];
-      // InfoJobs URLs usually have location in path: https://www.infojobs.net/barcelona/...
-      const locationMatch = item.href.match(/infojobs\.net\/([^/]+)\//);
-      const city = locationMatch ? locationMatch[1].replace(/-/g, " ") : "España";
+    while ((match = linkRegex.exec(html)) !== null) {
+      const href = match[1];
+      const title = match[2].trim().replace(/\s+/g, " ");
+
+      if (!title || title.length < 5) continue;
+
+      const fullUrl = href.startsWith("http")
+        ? href.split("?")[0]
+        : `https://www.infojobs.net${href.split("?")[0]}`;
+
+      if (seenUrls.has(fullUrl)) continue;
+      seenUrls.add(fullUrl);
+
+      // Extraer ciudad del URL
+      const locationMatch = fullUrl.match(/infojobs\.net\/([^/]+)\//);
+      const city = locationMatch
+        ? locationMatch[1].replace(/-/g, " ")
+        : "España";
 
       jobs.push({
-        externalId: `ij-es-${Date.now()}-${i}`,
-        title: item.title,
+        externalId: `ij-es-${Date.now()}-${jobs.length}`,
+        title,
         company: "Empresa en InfoJobs",
         location: `${city.charAt(0).toUpperCase() + city.slice(1)}, España`,
-        sourceUrl: item.href,
+        sourceUrl: fullUrl,
         sourcePlatform: "InfoJobs",
-        rawDescription: `Oferta de empleo para ${item.title} en España (${city}). Publicada en InfoJobs.`,
+        rawDescription: `Oferta de empleo para ${title} en España (${city}). Publicada en InfoJobs.`,
         companySlug: "infojobs",
         regionHint: "SPAIN",
       });
     }
 
-    await browser.close();
     return jobs.slice(0, 15);
   } catch (error) {
-    if (browser) await browser.close().catch(() => {});
     console.error("Error scraping InfoJobs Spain:", error);
     return [];
   }

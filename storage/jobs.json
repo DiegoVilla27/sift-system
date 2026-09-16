@@ -1,2671 +1,1160 @@
 [
   {
-    "id": "job-linkedin-1-1789515721083",
-    "title": "Frontend React Developer | Ecommerce, Telco &amp; Optimizely",
-    "company": "knowmad mood",
-    "location": "Madrid",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend React Developer | Ecommerce, Telco &amp; Optimizely en knowmad mood (Madrid). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-ecommerce-telco-optimizely-at-knowmad-mood-4464110470",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"madrid\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Madrid"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de knowmad mood,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"madrid\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:50:29.655Z",
-    "isDismissed": false
-  },
-  {
-    "id": "job-linkedin-2-1789515721083",
-    "title": "Desarrollador/a Angular – Frontend Developer",
-    "company": "Fistrek",
-    "location": "Málaga",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador/a Angular – Frontend Developer en Fistrek (Málaga). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/desarrollador-a-angular-%E2%80%93-frontend-developer-at-fistrek-4438354216",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"málaga\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Málaga"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Fistrek,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"málaga\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:50:39.427Z"
-  },
-  {
-    "id": "job-linkedin-3-1789515721083",
+    "id": "job-linkedin-2-1789570111721",
     "title": "Desarrollador/a Frontend - Fintech",
     "company": "gibobs allbanks",
     "location": "Madrid",
     "country": "España",
     "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Desarrollador/a Frontend - Fintech en gibobs allbanks (Madrid). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://es.linkedin.com/jobs/view/desarrollador-a-frontend-fintech-at-gibobs-allbanks-4463808484",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"madrid\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Madrid"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de gibobs allbanks,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"madrid\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:50:47.112Z"
-  },
-  {
-    "id": "job-linkedin-4-1789515721083",
-    "title": "Frontend React Developer",
-    "company": "Ailin.health",
-    "location": "Madrid",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend React Developer en Ailin.health (Madrid). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-at-ailin-health-4462414183",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"madrid\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Madrid"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Ailin.health,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"madrid\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:50:56.798Z"
-  },
-  {
-    "id": "job-linkedin-5-1789515721083",
-    "title": "Frontend Developer - Angular",
-    "company": "hiberus",
-    "location": "Zaragoza",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "UNKNOWN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Developer - Angular en hiberus (Zaragoza). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-developer-angular-at-hiberus-4462803992",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Oferta remota sin localización específica clara. Se sugiere verificación antes de postular."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Zaragoza"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de hiberus,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Oferta remota sin localización específica clara. Se sugiere verificación antes de postular.",
-    "cvAssignmentConfidence": 0.7,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:51:04.375Z"
-  },
-  {
-    "id": "job-linkedin-6-1789515721083",
-    "title": "Senior React Frontend Developer",
-    "company": "BCNC GROUP",
-    "location": "Madrid",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior React Frontend Developer en BCNC GROUP (Madrid). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/senior-react-frontend-developer-at-bcnc-group-4441477799",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"madrid\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Madrid"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de BCNC GROUP,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"madrid\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:51:09.531Z"
-  },
-  {
-    "id": "job-linkedin-7-1789515721083",
-    "title": "Frontend Developer - Angular + Nx",
-    "company": "Cívica",
-    "location": "Granada",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "UNKNOWN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Developer - Angular + Nx en Cívica (Granada). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-developer-angular-%2B-nx-at-c%C3%ADvica-4467731100",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Oferta remota sin localización específica clara. Se sugiere verificación antes de postular."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Granada"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Cívica,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Oferta remota sin localización específica clara. Se sugiere verificación antes de postular.",
-    "cvAssignmentConfidence": 0.7,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:54:34.418Z"
-  },
-  {
-    "id": "job-linkedin-8-1789515721083",
-    "title": "Programador/a Frontend - Angular/ IA (Inteligencia Artificial)",
-    "company": "METRICA",
-    "location": "Madrid",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Programador/a Frontend - Angular/ IA (Inteligencia Artificial) en METRICA (Madrid). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/programador-a-frontend-angular-ia-inteligencia-artificial-at-metrica-4436815170",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"madrid\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Madrid"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de METRICA,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"madrid\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T00:55:40.308Z"
-  },
-  {
-    "id": "job-linkedin-9-1789515721083",
-    "title": "Desarrollador Senior React + TypeScript - Trabajo Remoto | REF#281930",
-    "company": "BairesDev",
-    "location": "Málaga",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Senior React + TypeScript - Trabajo Remoto | REF#281930 en BairesDev (Málaga). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/desarrollador-senior-react-%2B-typescript-trabajo-remoto-ref%23281930-at-bairesdev-4140300402",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"málaga\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Málaga"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de BairesDev,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"málaga\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED",
     "isDismissed": false
   },
   {
-    "id": "job-linkedin-10-1789515721083",
-    "title": "Frontend Software Engineer (Angular)",
-    "company": "GMV",
-    "location": "Tres Cantos",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "UNKNOWN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Software Engineer (Angular) en GMV (Tres Cantos). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-software-engineer-angular-at-gmv-4456326720",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Oferta remota sin localización específica clara. Se sugiere verificación antes de postular."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Tres Cantos"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de GMV,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Oferta remota sin localización específica clara. Se sugiere verificación antes de postular.",
-    "cvAssignmentConfidence": 0.7,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-linkedin-11-1789515721083",
+    "id": "job-linkedin-9-1789570111721",
     "title": "Front-End Developer - Remote Work | REF#8676",
     "company": "BairesDev",
     "location": "San Jose de Cucuta, Norte de Santander, Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Front-End Developer - Remote Work | REF#8676 en BairesDev (San Jose de Cucuta, Norte de Santander, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.linkedin.com/jobs/view/front-end-developer-remote-work-ref%238676-at-bairesdev-4258061451",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: San Jose de Cucuta, Norte de Santander, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de BairesDev,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 65,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-linkedin-12-1789515721083",
-    "title": "React Frontend Engineer (Redux) - Remote Work | REF#303963",
-    "company": "BairesDev",
-    "location": "CAUCA, Sucre, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para React Frontend Engineer (Redux) - Remote Work | REF#303963 en BairesDev (CAUCA, Sucre, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.linkedin.com/jobs/view/react-frontend-engineer-redux-remote-work-ref%23303963-at-bairesdev-4464699712",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: CAUCA, Sucre, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de BairesDev,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-linkedin-13-1789515721083",
-    "title": "Sr. Frontend Engineer - React/Typescript",
-    "company": "Devlane",
-    "location": "Bogotá, Distrito Capital, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Sr. Frontend Engineer - React/Typescript en Devlane (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.linkedin.com/jobs/view/sr-frontend-engineer-react-typescript-at-devlane-4460029417",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Bogotá, Distrito Capital, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Devlane,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-linkedin-14-1789515721083",
+    "id": "job-linkedin-12-1789570111721",
     "title": "Bogota - Desarrollador Frontend",
     "company": "Softgic",
     "location": "Cundinamarca, Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Bogota - Desarrollador Frontend en Softgic (Cundinamarca, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.linkedin.com/jobs/view/bogota-desarrollador-frontend-at-softgic-4465846399",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Cundinamarca, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Softgic,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:00:08.321Z"
+    "matchScore": 62,
+    "isApplied": false,
+    "isDismissed": false
   },
   {
-    "id": "job-linkedin-15-1789515721083",
+    "id": "job-linkedin-13-1789570111721",
     "title": "Frontend Developer | Cells GLOMO",
     "company": "Accenture Colombia",
     "location": "Bogotá, Distrito Capital, Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Frontend Developer | Cells GLOMO en Accenture Colombia (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.linkedin.com/jobs/view/frontend-developer-cells-glomo-at-accenture-colombia-4452796470",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Bogotá, Distrito Capital, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Accenture Colombia,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:07:38.923Z"
+    "matchScore": 62,
+    "isApplied": false,
+    "isDismissed": false
   },
   {
-    "id": "job-linkedin-16-1789515721083",
-    "title": "Senior Frontend Engineer (React)",
-    "company": "Oowlish",
-    "location": "Bogotá, Distrito Capital, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior Frontend Engineer (React) en Oowlish (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.linkedin.com/jobs/view/senior-frontend-engineer-react-at-oowlish-4449650206",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Bogotá, Distrito Capital, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Oowlish,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:09:13.756Z"
-  },
-  {
-    "id": "job-linkedin-17-1789515721083",
-    "title": "Desarrollador Frontend - Angular - Bogotá, Colombia",
-    "company": "SETI S.A.S",
-    "location": "Bogotá, Distrito Capital, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend - Angular - Bogotá, Colombia en SETI S.A.S (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.linkedin.com/jobs/view/desarrollador-frontend-angular-bogot%C3%A1-colombia-at-seti-s-a-s-4458043087",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Bogotá, Distrito Capital, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de SETI S.A.S,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia, bogotá\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:20:01.441Z"
-  },
-  {
-    "id": "job-linkedin-18-1789515721083",
-    "title": "Desarrollador Frontend Angular | React",
-    "company": "Accenture Colombia",
-    "location": "Medellin, Antioquia, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend Angular | React en Accenture Colombia (Medellin, Antioquia, Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.linkedin.com/jobs/view/desarrollador-frontend-angular-react-at-accenture-colombia-4463837366",
-    "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia, medellin\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Medellin, Antioquia, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Accenture Colombia,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia, medellin\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:21:30.793Z"
-  },
-  {
-    "id": "job-linkedin-19-1789515721083",
+    "id": "job-linkedin-17-1789570111721",
     "title": "Senior Frontend Engineer",
     "company": "Monks",
     "location": "Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Senior Frontend Engineer en Monks (Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.linkedin.com/jobs/view/senior-frontend-engineer-at-monks-4449432165",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Monks,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-linkedin-20-1789515721083",
+    "id": "job-linkedin-18-1789570111721",
     "title": "Senior Software Engineer - Frontend - Consumer",
     "company": "Kraken",
     "location": "Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Senior Software Engineer - Frontend - Consumer en Kraken (Colombia). Publicada en LinkedIn Empleos.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.linkedin.com/jobs/view/senior-software-engineer-frontend-consumer-at-kraken-4437061570",
     "sourcePlatform": "LinkedIn",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (LinkedIn)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: LinkedIn",
-      "Ubicación: Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Kraken,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-other-21-1789515721083",
-    "title": "Desarrollador Frontend Angular",
-    "company": "Bmslatinoamerica",
-    "location": "Bmslatinoamerica, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend Angular en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-angular-con-experiencia-en-bogota-dc-D37BC40787BF524B61373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Bmslatinoamerica, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Bmslatinoamerica,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:28:45.622Z"
-  },
-  {
-    "id": "job-other-22-1789515721083",
-    "title": "Desarrollador Frontend / Flutter",
-    "company": "TU TALENTO SAS",
-    "location": "4,1\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                TU TALENTO SAS, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend / Flutter en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-flutter-medellin-en-bello-39FD9E2257C8E2C661373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,1\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                TU TALENTO SAS, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de TU TALENTO SAS,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:28:51.306Z"
-  },
-  {
-    "id": "job-other-23-1789515721083",
+    "id": "job-computrabajo-22-1789570111721",
     "title": "Desarrollador Frontend Glomo Cells",
     "company": "Empresa en CompuTrabajo",
     "location": "4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Adecco Colombia S.A., Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Desarrollador Frontend Glomo Cells en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-glomo-cells-semi-senior-en-bogota-dc-E37D545FEBA4F4D061373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Adecco Colombia S.A., Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:28:54.513Z"
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 62,
+    "isApplied": false,
+    "isDismissed": false
   },
   {
-    "id": "job-other-24-1789515721083",
+    "id": "job-computrabajo-23-1789570111721",
     "title": "Desarrollador Frontend",
     "company": "Empresa en CompuTrabajo",
     "location": "4,4\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                ZEMSANIA COLOMBIA SAS, Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Desarrollador Frontend en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-glomo-cells-en-bogota-dc-C0893E50E4B7C17F61373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,4\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                ZEMSANIA COLOMBIA SAS, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:28:57.730Z"
-  },
-  {
-    "id": "job-other-25-1789515721083",
-    "title": "ingeniero software",
-    "company": "PEDBOX S.A.S.",
-    "location": "PEDBOX S.A.S., Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para ingeniero software en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-software-frontend-backend-movil-en-itagui-58FA53CFAC65A21861373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: PEDBOX S.A.S., Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de PEDBOX S.A.S.,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:29:02.443Z"
-  },
-  {
-    "id": "job-other-26-1789515721083",
-    "title": "Desarrollador Full Stack",
-    "company": "Eleventraining",
-    "location": "Eleventraining, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Full Stack en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-backend-nestjs-frontend-react-en-bogota-dc-0E3C9E451D47311661373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Eleventraining, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Eleventraining,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:29:06.062Z"
-  },
-  {
-    "id": "job-other-27-1789515721083",
-    "title": "React Developer Ingl&#xE9;s B2 o Superior Completamente Remoto",
-    "company": "Empresa en CompuTrabajo",
-    "location": "4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Adecco Colombia S.A., Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para React Developer Ingl&#xE9;s B2 o Superior Completamente Remoto en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-react-developer-ingles-b2-o-superior-completamente-remoto-en-bogota-dc-A0D2620921C48C6E61373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Adecco Colombia S.A., Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:29:09.824Z"
-  },
-  {
-    "id": "job-other-28-1789515721083",
-    "title": "Desarrollador Fullstack",
-    "company": "Empresa en CompuTrabajo",
-    "location": "Importante empresa del sector, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Fullstack en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-en-bogota-dc-A8D52AC52DF9DFA861373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Importante empresa del sector, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:29:35.450Z"
-  },
-  {
-    "id": "job-other-29-1789515721083",
-    "title": "Desarrollador Full Stack Junior",
-    "company": "Empresa en CompuTrabajo",
-    "location": "4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Grupo emi S.A.S, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Full Stack Junior en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-junior-bucaramanga-en-bucaramanga-327C8F434CAB8F7761373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Grupo emi S.A.S, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:29:39.008Z"
-  },
-  {
-    "id": "job-other-30-1789515721083",
-    "title": "Desarrollador Backend Senior Python",
-    "company": "Empresa en CompuTrabajo",
-    "location": "4,2\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                ALO CREDIT COLOMBIA SAS, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Backend Senior Python en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-senior-python-contratacion-inmediata-en-bogota-dc-62FA50B72787EF7761373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,2\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                ALO CREDIT COLOMBIA SAS, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-other-31-1789515721083",
-    "title": "Desarrollador(a) Senior de Aplicaciones",
-    "company": "Empresa en CompuTrabajo",
-    "location": "CENTRO DE EMPLEO Y TALENTO COLSUBSIDIO, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador(a) Senior de Aplicaciones en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.083Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-senior-de-aplicaciones-en-bogota-dc-312ECA52DFD5A95961373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: CENTRO DE EMPLEO Y TALENTO COLSUBSIDIO, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-32-1789515721084",
-    "title": "Desarrollador Fullstack",
-    "company": "TALYCAP GLOBAL",
-    "location": "TALYCAP GLOBAL, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Fullstack en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-hibrido-en-bogota-en-bogota-dc-59F148BA3FE236FE61373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: TALYCAP GLOBAL, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de TALYCAP GLOBAL,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-33-1789515721084",
+    "id": "job-computrabajo-33-1789570111721",
     "title": "L&#xED;der T&#xE9;cnico FullStack .Net Angular AWS",
     "company": "Empresa en CompuTrabajo",
     "location": "4,5\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Inter Rapidisimo S.A, Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
     "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
+      "Angular"
     ],
     "description": "Oferta de empleo para L&#xED;der T&#xE9;cnico FullStack .Net Angular AWS en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-fullstack-net-angular-aws-en-bogota-dc-0BF2C622B9FB6CBE61373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,5\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Inter Rapidisimo S.A, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-other-34-1789515721084",
-    "title": "desarrollador/a web Editor Dise&#xF1;ador Grafico",
-    "company": "Empresa en CompuTrabajo",
-    "location": "Importante empresa del sector De Marketing Digital, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para desarrollador/a web Editor Dise&#xF1;ador Grafico en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-web-editor-disenador-grafico-editor-senior-disenador-grafico-en-bogota-dc-48E0F1BE52E8F00561373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Importante empresa del sector De Marketing Digital, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-35-1789515721084",
-    "title": "Desarrollo de Software",
-    "company": "Empresa en CompuTrabajo",
-    "location": "Importante empresa requiere, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollo de Software en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollo-de-software-fullstack-en-palmira-A544079FD15C23E061373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Importante empresa requiere, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-36-1789515721084",
-    "title": "Desarrollador React/Angular",
-    "company": "Empresa en CompuTrabajo",
-    "location": "4,5\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Inter Rapidisimo S.A, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador React/Angular en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-reactangular-preferiblemente-con-experiencia-en-ecommerce-en-bogota-dc-E8D828071D51A5F161373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,5\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Inter Rapidisimo S.A, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:30:30.936Z"
-  },
-  {
-    "id": "job-other-37-1789515721084",
-    "title": "Ingeniero en Python",
-    "company": "Empresa en CompuTrabajo",
-    "location": "Importante empresa del sector, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Ingeniero en Python en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-python-en-bogota-dc-530B262B149D65B861373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Importante empresa del sector, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-38-1789515721084",
+    "id": "job-computrabajo-38-1789570111721",
     "title": "Ingeniero de Sistemas Desarrollador Full Stack /Flutter / .NET / SQL Server",
     "company": "Empresa en CompuTrabajo",
     "location": "4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                DISTRACOM S.A., Colombia",
-    "country": "Colombia",
+    "country": "LATAM",
     "modality": "REMOTE",
-    "region": "LATAM",
     "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
+      "Flutter"
     ],
     "description": "Oferta de empleo para Ingeniero de Sistemas Desarrollador Full Stack /Flutter / .NET / SQL Server en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:48:31.721Z",
     "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-sistemas-desarrollador-full-stack-flutter-net-sql-server-en-monteria-6D0060A62AEF934761373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: 4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                DISTRACOM S.A., Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-other-39-1789515721084",
-    "title": "Estudiante o Profesional sistemas afines cargo Jr. Full Stack Developer o Desarrollador Full Stack",
-    "company": "Empresa en CompuTrabajo",
-    "location": "Importante empresa del sector, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Estudiante o Profesional sistemas afines cargo Jr. Full Stack Developer o Desarrollador Full Stack en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-estudiante-o-profesional-sistemas-afines-cargo-jr-full-stack-developer-o-desarrollador-full-stack-en-cali-556D7585339DAB2161373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Importante empresa del sector, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en CompuTrabajo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-other-40-1789515721084",
-    "title": "Senior FullStack Engineer SaaS/AI",
-    "company": "Easy Clocking",
-    "location": "Easy Clocking, Colombia",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior FullStack Engineer SaaS/AI en Colombia.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-senior-fullstack-engineer-saasai-con-experiencia-en-bogota-dc-06DD22F3C9CA8B9461373E686DCF3405",
-    "sourcePlatform": "Other",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Other)",
-      "Despacho regional asignado: Ubicación explícita en Colombia/LATAM detectada: \"colombia\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Other",
-      "Ubicación: Easy Clocking, Colombia"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Easy Clocking,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Ubicación explícita en Colombia/LATAM detectada: \"colombia\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-41-1789515721084",
-    "title": "Front-end Engineer (Angular)",
-    "company": "Empresa en Get on Board",
-    "location": "100% Remoto (Remote)",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "   +6 años de experiencia  en desarrollo de software.   Inglés intermedio/avanzado (Obligatorio).   Experiencia sólida con  Angular (v20+) ,  TypeScript (5+) ,  RxJS  y  Redux .  Experiencia con  GitHub .  Manejo de  jQuery .  Experiencia utilizando  Claude  como herramienta de desarrollo asistido por IA.  Manejo de  Jira  y  Confluence .    Buscamos  Senior Frontend Engineer  para desarrollar aplicaciones web modernas con Angular, participando en un equipo que apuesta por nuevas prácticas de ingeniería y desarrollo asistido por Inteligencia Artificial.  Si disfrutas construir interfaces robustas, escribir código de calidad y aprovechar herramientas de IA para acelerar el desarrollo, esta oportunidad es para ti.   Lo que harás:    Desarrollar y evolucionar aplicaciones frontend con Angular.  Construir componentes reutilizables y mantenibles.  Integrar aplicaciones con APIs y servicios backend.  Colaborar en revisiones de código y buenas prácticas de desarrollo.  Utilizar herramientas de IA para mejorar la productividad y la calidad del software.     Contrato a largo plazo.  100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año.  2 revisiones salariales al año.  Clases de inglés.  Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/frontend-engineer-angular-improving-south-america-remote",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: 100% Remoto (Remote)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:31:40.440Z"
-  },
-  {
-    "id": "job-getonboard-42-1789515721084",
-    "title": "Senior Full-Stack Engineer — .NET y React",
-    "company": "Empresa en Get on Board",
-    "location": "100% Remoto (Remote)",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Este rol NO es para ti si:     Prefieres que te lleguen las tareas ya definidas.  Se te va a decir qué hay que lograr, no cómo. Escalas lo que no esté a tu alcance; el resto lo resuelves.    No estás dispuesto a salir de tu lenguaje.  No pedimos que llegues sabiendo las tres tecnologías: sí que ninguna te frene.    Buscas un entorno protocolar y ordenado.  Somos un scale up con cultura de startup: se avanza rápido, se acepta deuda y hay que ser capaz de crear orden dentro de la fluidez.    Lo que sí necesitamos:     +5 años desarrollando software y experiencia real como fullstack.    .NET/C# sólido.  Es el backend del producto y ahí esperamos fuerza real. Python, que usan los servicios que consumes, se aprende acá.    React de cara al cliente.  No necesitas ser el referente de front, pero sí construir features completas y sostener las convenciones del squad.    Clean Architecture aplicada, no leída.  Inversión de control, dominio aislado de la infraestructura, el tecnologías específicas como piezas desechables: arquitectura evolutiva de verdad.    Testing como parte del entregable.  Cobertura unitaria más tests de integración que levantan las piezas del caso de uso, con terceros simulados. Acá no hay QA: cada equipo prueba hasta donde el riesgo quede manejado.    Diagnóstico de performance e incidentes.  Leer señales de la aplicación —observabilidad, trazas, métricas— y concluir qué dicen del software. La base de datos es un caso concreto: leer el plan de ejecución en vez de adivinarlo, índices, escaneos de tabla.     Tomar cualquier tarea técnica del producto, de punta a punta.  React en el front de cara al cliente, .NET en el backend y Python en los servicios que ese backend consume. No entras a cubrir un hueco de tecnología: entras para que el squad pueda avanzar en los tres frentes a la vez, sin mayor acompañamiento.   Mandar a producción rápido para aprender del uso real.  Valoramos llegar a tiempo al mercado, así que muchas decisiones se toman sabiendo que dejan deuda. Cada sprint reserva un espacio que planifica el propio equipo para robustecer lo que ya se validó como core: distinguir qué deuda se paga y cuál se deja viva es parte del rol.   Desarrollar con agentes y con contención.  Vamos hacia un enfoque agéntico antes que de supervisión humana, y eso se sostiene con tests y restricciones alrededor de lo que hace el agente, no con fe.   Compartir el objetivo de negocio.  El norte es el mismo para todo el squad: quienes vienen del lado de producto y quienes vienen del lado técnico persiguen el mismo resultado. Entiendes la tesis de negocio detrás de un requerimiento antes de implementarlo, y descartas rápido lo que no funciona.   Construir para el Maxxa que viene.  Ya operamos en México y estamos evaluando el próximo país. El segmento al que apunta este producto —la empresa chica, la que nadie financia— es el mismo en toda la región, y lo que validemos acá es lo que se lleva.   Sostener el estándar sin autoridad formal.  El producto se apoya en servicios que construyen otros equipos de Tecnología. No los diriges: los alineas, con criterio propio sobre qué aceptas recibir.   Cómo se ve que vas bien.  Tomas tareas de complejidad creciente sin acompañamiento, los flujos que tocas quedan con su cobertura de tests y empiezas a proponer qué se robustece. Eso es lo que miramos, y se conversa contigo desde el primer día.   En Tecnología nos organizamos en squads de tres a cinco ingenieros con su product owner. La expectativa mutua es ser cada vez mejores ingenieros: hay referentes cercanos en casi todos los frentes, con harta disposición a compartir.  Te unirás a una fintech donde tu energía se ve recompensada:    Modalidad híbrida (1 día a la semana) para personas con residencia en Santiago de Chile y full remoto para otras ubicaciones.   Tiempo de bienestar: con metas cumplidas, sales 30 min antes todos los días. Días administrativos, tarde libre por cumpleaños y día de mudanza.  Asignación de almuerzo.  Seguro complement",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-net-y-react-maxxa-remote",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: 100% Remoto (Remote)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-43-1789515721084",
-    "title": "Full-Stack Senior (Java Spring Boot + Angular)",
-    "company": "Empresa en Get on Board",
-    "location": "Chile",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Java 8, 11, 17, 21 o superior  Spring Boot  Angular y AngularJS  Node.js  JUnit / Mockito  Maven  Oracle / MongoDB  AWS, Azure, GCP u OCI  Jenkins, SonarQube u otras herramientas de integración y calidad de código  Experiencia con arquitectura de microservicios  Conocimientos en migración o modernización de aplicaciones monolíticas  Uso de herramientas de IA aplicadas al desarrollo, como GitHub Copilot o modelos GPT    Ejecutar el desarrollo integral de soluciones de software, abarcando tanto frontend como backend, y gestionar bases de datos para asegurar aplicaciones robustas, seguras y eficientes que respondan a las necesidades de los clientes.   💰 Bono anual 🎊 Fiesta de fin de año 📅 Días administrativos 🌍 Convenio Mundo ACHS 🏦 Convenio Caja los Andes 🎉 Celebración de fiestas patrias 🍽️ Tarjeta de alimentación Pluxee 🏅 Reconocimiento por trayectoria 🎁 Regalo por nacimiento de hijo/a 💻 Webinars y charlas especializadas 🎓 Capacitación y formación continua 🎂 Medio día libre por tu cumpleaños 🐾 Descuento en seguro para mascotas 🛍️ Acceso a beneficios y descuentos Buk 💼 Desarrollo de competencias laborales 🎄 Aguinaldo de fiestas patrias y fin de año 👶 Días adicionales al postnatal masculino 🏥 Seguro de salud y complementario MetLife 🧘 Programa de bienestar, autocuidado y vida sana 🏧 Cuenta corriente Banco de Chile sin costo de mantención ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/full-stack-senior-java-spring-boot-angular-3it-santiago",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en COP o mención de marco contractual colombiano detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: Chile"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Moneda en COP o mención de marco contractual colombiano detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-44-1789515721084",
-    "title": "Front-end Engineer",
-    "company": "Empresa en Get on Board",
-    "location": "Chile",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": " Buscamos a alguien con experiencia práctica desarrollando productos web, que pueda tomar ownership de sus tareas, colaborar con otros equipos y mantener una mirada crítica sobre la calidad de la experiencia frontend.  Experiencia requerida   Al menos 2 a 5 años de experiencia en desarrollo de software o productos digitales.  Experiencia en desarrollo frontend con JavaScript o TypeScript, idealmente utilizando frameworks o librerías modernas como React, Vue, Angular o similares.  Buen dominio de JavaScript moderno, HTML y CSS.  Experiencia trabajando con componentes reutilizables y diseño de interfaces.  Experiencia consumiendo e integrando APIs RESTful.  Manejo de git y plataformas de colaboración como GitHub o Bitbucket.  Capacidad para trabajar en equipos ágiles, participando en sprints, code reviews y mejoras continuas.  Conocimiento de buenas prácticas de seguridad frontend y protección de datos sensibles en interfaces de usuario.   No esperamos que domines todo desde el primer día, pero sí que tengas una base sólida en frontend y ganas de aprender.  Principales   React.js  JavaScript / ES6+  HTML5  CSS3  Consumo de APIs REST  Control de versiones.  Testing frontend    Como Frontend Engineer Semi Senior, serás responsable de construir, mantener y mejorar interfaces de usuario para nuestras aplicaciones web. Trabajarás principalmente con React, JavaScript moderno, HTML, CSS y otros similares, integrando o creando componentes que nos permitan interactuar con otros servicios.  Tus principales responsabilidades serán:   Desarrollar interfaces de usuario interactivas, responsivas, accesibles y mantenibles.  Implementar diseños y especificaciones entregadas por UX/UI, cuidando consistencia visual, usabilidad y experiencia de usuario.  Trabajar junto a otros equipos para integrar APIs RESTful y asegurar una comunicación eficiente entre frontend y servicios.  Participar activamente en refinamientos, planificación de sprint, revisiones de código y retrospectivas.  Mejorar la calidad del código frontend mediante buenas prácticas, componentes reutilizables, estructura clara y testing.  Optimizar el rendimiento de las interfaces, identificando oportunidades de mejora en carga, navegación y experiencia percibida.  Colaborar en la resolución de problemas técnicos, bugs productivos y mejoras evolutivas.  Contribuir a una cultura de desarrollo basada en colaboración, confianza, aprendizaje continuo y foco en impacto.     Personal Days: Día libre por cumpleaños y día libre por mudanza.  3 días extra de vacaciones  Seguro Complementario  Beneficios Caja los Andes  Entre otros  ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/frontend-engineer-cumplo-santiago",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Mayor densidad de criterios LATAM (cali, chile)"
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: Chile"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Mayor densidad de criterios LATAM (cali, chile)",
-    "cvAssignmentConfidence": 0.92,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-45-1789515721084",
-    "title": "Full-Stack Developer: React & Node.js",
-    "company": "Empresa en Get on Board",
-    "location": "100% Remoto (Remote)",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "LATAM",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "   5+ años de experiencia en desarrollo web fullstack.   Experiencia sólida y demostrable en React (componentes funcionales, hooks, state management con Redux, Context API, etc.).   Conocimiento y experiencia en Node.js y frameworks como Express, Nest.js o similares.   Experiencia en desarrollo de APIs REST y comprensión de arquitectura backend.   Familiaridad con bases de datos (SQL y NoSQL) como PostgreSQL, MongoDB, etc.   Experiencia práctica con IA y/o machine learning en aplicaciones web (integración de APIs de IA, LLMs, etc.).   Conocimiento de herramientas de versionamiento (Git) y flujos de trabajo colaborativos.   Dominio de testing (unit tests, integration tests) y prácticas de CI/CD.   Inglés Intermedio-Avanzado o avanzado (requisito indispensable) - necesario para comunicación con equipos globales   Capacidad de trabajar en equipos multidisciplinarios y comunicarse efectivamente.   Proactividad, responsabilidad y compromiso con la calidad del código.      Buscamos un Desarrollador Fullstack con sólida experiencia en React, Node.js y familiaridad con tecnologías de IA. Serás responsable de desarrollar aplicaciones web modernas, escalables y de alto rendimiento, contribuyendo tanto en el frontend como en el backend de un sistema de RRHH. Si te apasiona la tecnología y deseas trabajar en proyectos innovadores con IA, esta es tu oportunidad.     Contrato a largo plazo.  100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año.  2 revisiones salariales al año.  Clases de inglés.  Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Mayor densidad de criterios LATAM (cali)"
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: 100% Remoto (Remote)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_CO",
-    "cvAssignmentReason": "Mayor densidad de criterios LATAM (cali)",
-    "cvAssignmentConfidence": 0.92,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-46-1789515721084",
-    "title": "Desarrollador C#/.NET y Angular Mexico",
-    "company": "Empresa en Get on Board",
-    "location": "Mexico",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Formación académica    Formación profesional o técnica en Ingeniería de Sistemas, Ingeniería Informática, Computación, Software o carreras afines.    Experiencia    Mínimo 5 años de experiencia profesional en desarrollo de software (nivel Senior).  Mínimo 3 años de experiencia específica desarrollando con C# / .NET.  Mínimo 2 años de experiencia específica desarrollando con Angular.    Conocimientos técnicos    C# / .NET (Core / Framework) — excluyente.  Angular (versión 8 o superior) — excluyente.  Clean Code y principios SOLID.  Metodologías ágiles (Scrum / Kanban).  SSDLC y prácticas de desarrollo seguro.  APIs REST / Web APIs.  Git y flujos de control de versiones (branching, code review).  Bases de datos relacionales (SQL Server u otras).  HTML, CSS, TypeScript y JavaScript.  Entity Framework u otro ORM.     Desarrollar y mantener funcionalidades backend en C# / .NET según las prioridades definidas por el cliente.  Desarrollar y mantener componentes y vistas frontend en Angular.  Aplicar principios de Clean Code y SOLID en el diseño e implementación de software.  Implementar prácticas de SSDLC (ciclo de vida de desarrollo seguro) a lo largo de todo el proceso.  Participar activamente en ceremonias y prácticas de metodologías ágiles (Scrum / Kanban).  Diseñar, consumir e integrar servicios y APIs REST.  Implementar validaciones y reglas de negocio.  Elaborar pruebas unitarias e integrarlas a los pipelines de CI/CD.  Ejecutar mantenimiento evolutivo y correctivo sobre componentes existentes.  Corregir incidencias identificadas en los componentes desarrollados.  Participar en revisiones de código (code review) y aportar retroalimentación técnica.  Elaborar y actualizar la documentación técnica de los componentes modificados.  Apoyar la transferencia de conocimiento al equipo del cliente.   ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-c-net-y-angular-mexico-bc-tecnologia-mexicali",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: Mexico"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-47-1789515721084",
-    "title": "Desarrollador Full-Stack: Java & Angular",
-    "company": "Empresa en Get on Board",
-    "location": "100% Remoto (Remote)",
-    "country": "Colombia",
-    "modality": "REMOTE",
-    "region": "UNKNOWN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Backend - Frameworks Java:    SpringBoot (versión 3/4)  Spring Framework (versión 6/7)  Gradle (versión 8/9)    Frontend:    Angular (versiones recientes)  TypeScript  HTML5 y CSS3  RxJS  Angular Material    Bases de Datos:    MongoDB, PostgreSQL, Snowflake (conocimiento básico)    Herramientas:    GitHub, Jira, Confluence, Claude    Nube:    AWS, Azure (conocimiento básico)    Experiencia:    5+ años en desarrollo fullstack  3+ años con Java/Spring Framework  2+ años con Angular  Experiencia en aplicaciones end-to-end completas  Conocimiento de diseño web responsivo y UX    Idiomas:    Inglés intermedio-avanzado o avanzado (indispensable)     Desarrollo Backend:    Desarrollar y mantener aplicaciones backend usando Java y Spring Framework  Diseñar e implementar APIs RESTful y arquitectura de microservicios  Trabajar con múltiples tecnologías de bases de datos para optimizar la gestión de datos    Desarrollo Frontend:    Construir interfaces de usuario responsivas e interactivas usando Angular  Implementar arquitectura basada en componentes siguiendo las mejores prácticas de Angular  Gestionar estado y manejar operaciones asincrónicas con RxJS    General:    Colaborar entre equipos de frontend, backend y DevOps para entregar soluciones completas  Escribir código limpio, mantenible y testeable siguiendo mejores prácticas  Participar en revisiones de código y contribuir a la mejora continua  Troubleshooting y resolución de problemas en producción  Documentar código, APIs y arquitectura del sistema     Contrato a largo plazo. 100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Oferta remota sin localización específica clara. Se sugiere verificación antes de postular."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: 100% Remoto (Remote)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Oferta remota sin localización específica clara. Se sugiere verificación antes de postular.",
-    "cvAssignmentConfidence": 0.7,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:37:17.577Z"
-  },
-  {
-    "id": "job-getonboard-48-1789515721084",
-    "title": "Desarrollador Full-Stack (React, Spring Boot, Oracle DB)",
-    "company": "Empresa en Get on Board",
-    "location": "Chile",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Título profesional de alguna de las siguientes carreras o equivalente: Ingeniería Civil Informática, Ingeniería en Informática o Computación, Ingeniería Civil Industrial, Ingeniería en Información o carrera relacionada, con experiencia comprobable en proyectos tecnológicos.  Entre 3 a 5 años de experiencia como desarrollador fullstack  Conocimiento en React (Hooks, React Router, manejo de estado)  Conocimiento en Spring Boot (Spring Security, JPA/Hibernate)  Conocimiento en SQL avanzado y Oracle DB (PL/SQL deseable)  Conocimiento en Control de versiones con Git  Conocimiento en Consumo e implementación de APIs REST     Construir y mantener interfaces con React, gestionar estado con herramientas como Redux o Context API, y garantizar experiencias responsivas y accesibles  Diseñar y exponer APIs RESTful o GraphQL con Spring Boot, aplicando buenas prácticas de arquitectura (capas, seguridad, manejo de excepciones).  Modelar esquemas en Oracle DB, escribir consultas SQL optimizadas, procedimientos almacenados y gestionar migraciones con Liquibase o Flyway  Configurar pipelines CI/CD, gestionar contenedores Docker y colaborar en despliegues en entornos cloud o servidores on-premise.  Escribir pruebas unitarias e integración (JUnit, Jest/React Testing Library), participar en code reviews y mantener estándares de documentación técnica.  Trabajar junto a equipos de producto, UX y QA bajo metodologías ágiles (Scrum/Kanban), contribuyendo en la definición técnica de historias de usuario.     ¿Qué puedes esperar de nosotros?    Flexibilidad laboral, promoviendo el equilibrio en tu vida personal y profesional.  Desarrollo profesional y evolución constante de tus habilidades, siempre según tus intereses.  Un ambiente colaborativo, diverso e innovador, que fomenta el trabajo en equipo.    ¿Qué ofrecemos?   SONDA Academy, una plataforma educativa de aprendizaje constante que busca potenciar al máximo tu desarrollo profesional.  Trabajo híbrido, en SONDA sabemos que la flexibilidad es importante para tu bienestar es por eso que contamos con jornadas presenciales y de teletrabajo.  SONDA Wellness, un programa que busca apoyarte en el balance de tu vida personal y profesional, que promoviendo una serie de iniciativas enfocadas en tu salud física, mental y social.  ¡Y mucho más!  + Diversidad +Inclusión = Innovación y colaboración  ¡Sé parte de nuestro equipo! ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: Chile"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-getonboard-49-1789515721084",
-    "title": "Desarrollador/a Full-Stack – Angular / .NET / Azure (Perú)",
-    "company": "Empresa en Get on Board",
-    "location": "Peru",
-    "country": "España",
-    "modality": "REMOTE",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "  Mínimo 4 años de experiencia en desarrollo de software.  Mínimo 2 años de experiencia en proyectos del sector bancario o financiero.  Experiencia comprobable con Angular y .NET.  Experiencia en desarrollo y consumo de APIs.  Conocimiento de arquitecturas de microservicios.  Experiencia con Microsoft Azure.  Manejo de GitHub Enterprise y GitHub Actions.  Experiencia en pruebas unitarias y de integración.  Experiencia en revisión de código mediante pull requests.  Conocimientos de DevSecOps y seguridad de aplicaciones.  Experiencia en documentación técnica.  Formación en Ingeniería de Sistemas, Informática, Software o carrera afín.    Desarrollar componentes frontend con Angular y backend con .NET. Participar en el análisis técnico de requerimientos. Desarrollar e integrar APIs y microservicios. Ejecutar pruebas unitarias y de integración. Participar en pipelines CI/CD mediante GitHub Actions. Gestionar código mediante GitHub Enterprise y pull requests. Aplicar buenas prácticas de seguridad bajo enfoque DevSecOps. Elaborar documentación técnica. Participar en despliegues, soporte y estabilización de componentes. Colaborar en la transferencia de conocimiento al equipo del cliente.   Modalidad: Híbrida. Ubicación: San Borja, Lima, Perú. Duración: 12 meses, con posibilidad de continuidad. Vacantes: 1. ",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima",
-    "sourcePlatform": "GetOnBoard",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (GetOnBoard)",
-      "Despacho regional asignado: Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado."
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: GetOnBoard",
-      "Ubicación: Peru"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Get on Board,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Moneda en Euros (€) o mención de DNI/NIE/marco legal español detectado.",
-    "cvAssignmentConfidence": 0.98,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-tecnoempleo-50-1789515721084",
-    "title": "Team Lead Frontend H M Michael Page",
+    "id": "job-tecnoempleo-49-1789570111723",
+    "title": "Lead Ux Designer Frontend Engineer",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Team Lead Frontend H M Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: angular, storybook.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/team-lead-frontend-h-m-michael-page/angular-storybook/rf-2bb31523d23803e3404b",
+    "stack": [],
+    "description": "Oferta de empleo para Lead Ux Designer Frontend Engineer publicada en Tecnoempleo España. Tecnologías requeridas: vue, d3.",
+    "postedAt": "2026-09-16T14:48:31.723Z",
+    "sourceUrl": "https://www.tecnoempleo.com/lead-ux-designer-frontend-engineer/vue-d3/rf-5adf10d332e2a3357949",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:39:45.536Z"
-  },
-  {
-    "id": "job-tecnoempleo-51-1789515721084",
-    "title": "Front End Architect Plexus",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Front End Architect Plexus publicada en Tecnoempleo España. Tecnologías requeridas: angular, html5.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/front-end-architect-plexus/angular-html5/rf-361515c0524b43c7ba43",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-52-1789515721084",
-    "title": "Desarrollador Frontend Angular Baoss",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend Angular Baoss publicada en Tecnoempleo España. Tecnologías requeridas: html5, css3, javascript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-angular-baoss/html5-css3-javascript/rf-193f16cf3277a3071d47",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:39:54.908Z"
-  },
-  {
-    "id": "job-tecnoempleo-53-1789515721084",
-    "title": "Senior Frontend Engineer Nuxtjs Vue 3 Social You",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior Frontend Engineer Nuxtjs Vue 3 Social You publicada en Tecnoempleo España. Tecnologías requeridas: nuxtjs, composition, api.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-engineer-nuxtjs-vue-3-social-you/nuxtjs-composition-api/rf-59231099629673896c4e",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-tecnoempleo-54-1789515721084",
-    "title": "Desarrollador Frontend Engineer Angular React Auba",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend Engineer Angular React Auba publicada en Tecnoempleo España. Tecnologías requeridas: typescript, api, query.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-engineer-angular-react-auba/typescript-api-query/rf-9a7c1c63c2e1e32f7340",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:40:58.277Z"
-  },
-  {
-    "id": "job-tecnoempleo-55-1789515721084",
+    "id": "job-tecnoempleo-51-1789570111723",
     "title": "Desarrollador Frontend Cells Serem",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
+    "stack": [],
     "description": "Oferta de empleo para Desarrollador Frontend Cells Serem publicada en Tecnoempleo España. Tecnologías requeridas: ether.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:48:31.723Z",
     "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-cells-serem/ether/rf-21f11c9f12d5b30c0d4a",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:43:29.835Z"
-  },
-  {
-    "id": "job-tecnoempleo-56-1789515721084",
-    "title": "Desarrollador Frontend React Arelance",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Desarrollador Frontend React Arelance publicada en Tecnoempleo España. Tecnologías requeridas: redux, react, hooks.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-react-arelance/redux-react-hooks/rf-90291365b29b63fc2840",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:43:57.149Z"
-  },
-  {
-    "id": "job-tecnoempleo-57-1789515721084",
-    "title": "Graduate Programme 2027 Software Engineer Frontend",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Graduate Programme 2027 Software Engineer Frontend publicada en Tecnoempleo España. Tecnologías requeridas: react, typescript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/graduate-programme-2027-software-engineer-frontend/react-typescript/rf-82c11c6272d8a39bdf4c",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-58-1789515721084",
+    "id": "job-tecnoempleo-52-1789570111723",
+    "title": "Senior Frontend Engineer Nuxtjs Vue 3 Social You",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [],
+    "description": "Oferta de empleo para Senior Frontend Engineer Nuxtjs Vue 3 Social You publicada en Tecnoempleo España. Tecnologías requeridas: nuxtjs, composition, api.",
+    "postedAt": "2026-09-16T14:48:31.723Z",
+    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-engineer-nuxtjs-vue-3-social-you/nuxtjs-composition-api/rf-59231099629673896c4e",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 62,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-55-1789570111723",
     "title": "Frontend Senior Developer Shopify Michael Page",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
+      "HTML",
+      "CSS"
     ],
     "description": "Oferta de empleo para Frontend Senior Developer Shopify Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: html, css.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:48:31.723Z",
     "sourceUrl": "https://www.tecnoempleo.com/frontend-senior-developer-shopify-michael-page/html-css/rf-9f461cbf922523cf2a40",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-59-1789515721084",
-    "title": "Senior Frontend React Sopra Steria",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior Frontend React Sopra Steria publicada en Tecnoempleo España. Tecnologías requeridas: javascript, html.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-react-sopra-steria/javascript-html/rf-a49d12eda23243113846",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:46:48.977Z"
-  },
-  {
-    "id": "job-tecnoempleo-60-1789515721084",
-    "title": "Senior Frontend Developer Baoss",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior Frontend Developer Baoss publicada en Tecnoempleo España. Tecnologías requeridas: react, typescript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-developer-baoss/react-typescript/rf-38df1e6a12aef3f1c04e",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:46:52.820Z"
-  },
-  {
-    "id": "job-tecnoempleo-61-1789515721084",
-    "title": "Senior Frontend Developer React Michael Page",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Senior Frontend Developer React Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: javascript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-developer-react-michael-page/javascript/rf-5c02182ea2f7a368124b",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:47:39.897Z"
-  },
-  {
-    "id": "job-tecnoempleo-62-1789515721084",
-    "title": "Frontend Developer React Hays",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Developer React Hays publicada en Tecnoempleo España. Tecnologías requeridas: javascript, typescript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-react-hays/javascript-typescript/rf-cd2015a5327f23fe4d47",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:47:43.987Z"
-  },
-  {
-    "id": "job-tecnoempleo-63-1789515721084",
-    "title": "Programador Frontend Javascript Michael Page",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Programador Frontend Javascript Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: javascript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/programador-frontend-javascript-michael-page/javascript/rf-044e1c6b828b33264f46",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:48:15.336Z"
-  },
-  {
-    "id": "job-tecnoempleo-64-1789515721084",
-    "title": "Ai Frontend Engineer Arelance",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Ai Frontend Engineer Arelance publicada en Tecnoempleo España. Tecnologías requeridas: react, nextjs.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/ai-frontend-engineer-arelance/react-nextjs/rf-992a168d921c63766e45",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:49:41.541Z"
-  },
-  {
-    "id": "job-tecnoempleo-65-1789515721084",
+    "id": "job-tecnoempleo-63-1789570111723",
     "title": "Desarrollador Frontend Vuejs Michael Page",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
+      "HTML",
+      "CSS"
     ],
     "description": "Oferta de empleo para Desarrollador Frontend Vuejs Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: html, css.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:48:31.723Z",
     "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-vuejs-michael-page/html-css/rf-d18b13be92f0d316744e",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 62,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-66-1789515721084",
-    "title": "Frontend Developer React Typescript Ia Panel Siste",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Developer React Typescript Ia Panel Siste publicada en Tecnoempleo España. Tecnologías requeridas: azure, rest, apis.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-react-typescript-ia-panel-siste/azure-rest-apis/rf-d8d4151b22a543997947",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:49:49.392Z"
-  },
-  {
-    "id": "job-tecnoempleo-67-1789515721084",
-    "title": "Ingeniero Software Frontend Angular Gmv",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Ingeniero Software Frontend Angular Gmv publicada en Tecnoempleo España. Tecnologías requeridas: react, html5.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/ingeniero-software-frontend-angular-gmv/react-html5/rf-3b90185de20793751544",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:50:44.261Z"
-  },
-  {
-    "id": "job-tecnoempleo-68-1789515721084",
-    "title": "Frontend Developer With Italian Ey",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Frontend Developer With Italian Ey publicada en Tecnoempleo España. Tecnologías requeridas: typescript, nodejs.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-with-italian-ey/typescript-nodejs/rf-373b168eb25a835b6b4a",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": false,
-    "applicationStatus": "QUEUED"
-  },
-  {
-    "id": "job-tecnoempleo-69-1789515721084",
+    "id": "job-tecnoempleo-67-1789570111723",
     "title": "Frontend Developer Vuejs Nuxt Sopra Steria",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
+    "stack": [],
+    "description": "Oferta de empleo para Frontend Developer Vuejs Nuxt Sopra Steria publicada en Tecnoempleo España. Tecnologías requeridas: vue.",
+    "postedAt": "2026-09-16T14:48:31.723Z",
+    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-vuejs-nuxt-sopra-steria/vue/rf-9ea91f97425dc37a0744",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 62,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-0-1789569029982",
+    "title": "Frontend React Developer | Ecommerce, Telco &amp; Optimizely",
+    "company": "knowmad mood",
+    "location": "Madrid",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para Frontend React Developer | Ecommerce, Telco &amp; Optimizely en knowmad mood (Madrid). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.982Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-ecommerce-telco-optimizely-at-knowmad-mood-4464110470",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-1-1789569029982",
+    "title": "Desarrollador/a Angular – Frontend Developer",
+    "company": "Fistrek",
+    "location": "Málaga",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Desarrollador/a Angular – Frontend Developer en Fistrek (Málaga). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/desarrollador-a-angular-%E2%80%93-frontend-developer-at-fistrek-4438354216",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-3-1789569029983",
+    "title": "Frontend React Developer",
+    "company": "Ailin.health",
+    "location": "Madrid",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para Frontend React Developer en Ailin.health (Madrid). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-at-ailin-health-4462414183",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-4-1789569029983",
+    "title": "Frontend Developer - Angular",
+    "company": "hiberus",
+    "location": "Zaragoza",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Frontend Developer - Angular en hiberus (Zaragoza). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-developer-angular-at-hiberus-4462803992",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-5-1789569029983",
+    "title": "Senior React Frontend Developer",
+    "company": "BCNC GROUP",
+    "location": "Madrid",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para Senior React Frontend Developer en BCNC GROUP (Madrid). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/senior-react-frontend-developer-at-bcnc-group-4441477799",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-6-1789569029983",
+    "title": "Frontend Developer - Angular + Nx",
+    "company": "Cívica",
+    "location": "Granada",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Frontend Developer - Angular + Nx en Cívica (Granada). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-developer-angular-%2B-nx-at-c%C3%ADvica-4467731100",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-7-1789569029983",
+    "title": "Programador/a Frontend - Angular/ IA (Inteligencia Artificial)",
+    "company": "METRICA",
+    "location": "Madrid",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Programador/a Frontend - Angular/ IA (Inteligencia Artificial) en METRICA (Madrid). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/programador-a-frontend-angular-ia-inteligencia-artificial-at-metrica-4436815170",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-8-1789569029983",
+    "title": "Frontend Software Engineer (Angular)",
+    "company": "GMV",
+    "location": "Tres Cantos",
+    "country": "España",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Frontend Software Engineer (Angular) en GMV (Tres Cantos). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://es.linkedin.com/jobs/view/frontend-software-engineer-angular-at-gmv-4456326720",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-11-1789569029983",
+    "title": "Sr. Frontend Engineer - React/Typescript",
+    "company": "Devlane",
+    "location": "Bogotá, Distrito Capital, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Sr. Frontend Engineer - React/Typescript en Devlane (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.linkedin.com/jobs/view/sr-frontend-engineer-react-typescript-at-devlane-4460029417",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-14-1789569029983",
+    "title": "Senior Frontend Engineer (React)",
+    "company": "Oowlish",
+    "location": "Bogotá, Distrito Capital, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para Senior Frontend Engineer (React) en Oowlish (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.linkedin.com/jobs/view/senior-frontend-engineer-react-at-oowlish-4449650206",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-15-1789569029983",
+    "title": "Desarrollador Frontend - Angular - Bogotá, Colombia",
+    "company": "SETI S.A.S",
+    "location": "Bogotá, Distrito Capital, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend - Angular - Bogotá, Colombia en SETI S.A.S (Bogotá, Distrito Capital, Colombia). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.linkedin.com/jobs/view/desarrollador-frontend-angular-bogot%C3%A1-colombia-at-seti-s-a-s-4458043087",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-16-1789569029983",
+    "title": "Desarrollador Frontend Angular | React",
+    "company": "Accenture Colombia",
+    "location": "Medellin, Antioquia, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend Angular | React en Accenture Colombia (Medellin, Antioquia, Colombia). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.linkedin.com/jobs/view/desarrollador-frontend-angular-react-at-accenture-colombia-4463837366",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-computrabajo-20-1789569029983",
+    "title": "Desarrollador Frontend Angular",
+    "company": "Bmslatinoamerica",
+    "location": "Bmslatinoamerica, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend Angular en Colombia.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-angular-con-experiencia-en-bogota-dc-D37BC40787BF524B61373E686DCF3405",
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-computrabajo-21-1789569029983",
+    "title": "Desarrollador Frontend / Flutter",
+    "company": "TU TALENTO SAS",
+    "location": "4,1\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                TU TALENTO SAS, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Flutter"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend / Flutter en Colombia.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-flutter-medellin-en-bello-39FD9E2257C8E2C661373E686DCF3405",
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-computrabajo-36-1789569029983",
+    "title": "Desarrollador React/Angular",
+    "company": "Empresa en CompuTrabajo",
+    "location": "4,5\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Inter Rapidisimo S.A, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Desarrollador React/Angular en Colombia.",
+    "postedAt": "2026-09-16T14:30:29.983Z",
+    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-reactangular-preferiblemente-con-experiencia-en-ecommerce-en-bogota-dc-E8D828071D51A5F161373E686DCF3405",
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-47-1789569029984",
+    "title": "Team Lead Frontend H M Michael Page",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "Angular"
+    ],
+    "description": "Oferta de empleo para Team Lead Frontend H M Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: angular, storybook.",
+    "postedAt": "2026-09-16T14:30:29.984Z",
+    "sourceUrl": "https://www.tecnoempleo.com/team-lead-frontend-h-m-michael-page/angular-storybook/rf-2bb31523d23803e3404b",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-48-1789569029984",
+    "title": "Front End Architect Plexus",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "Angular",
+      "HTML"
+    ],
+    "description": "Oferta de empleo para Front End Architect Plexus publicada en Tecnoempleo España. Tecnologías requeridas: angular, html5.",
+    "postedAt": "2026-09-16T14:30:29.984Z",
+    "sourceUrl": "https://www.tecnoempleo.com/front-end-architect-plexus/angular-html5/rf-361515c0524b43c7ba43",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-50-1789569029984",
+    "title": "Desarrollador Frontend React Arelance",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "Redux"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend React Arelance publicada en Tecnoempleo España. Tecnologías requeridas: redux, react, hooks.",
+    "postedAt": "2026-09-16T14:30:29.984Z",
+    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-react-arelance/redux-react-hooks/rf-90291365b29b63fc2840",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-56-1789569029985",
+    "title": "Graduate Programme 2027 Software Engineer Frontend",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Graduate Programme 2027 Software Engineer Frontend publicada en Tecnoempleo España. Tecnologías requeridas: react, typescript.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/graduate-programme-2027-software-engineer-frontend/react-typescript/rf-82c11c6272d8a39bdf4c",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-58-1789569029985",
+    "title": "Senior Frontend Developer Baoss",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Senior Frontend Developer Baoss publicada en Tecnoempleo España. Tecnologías requeridas: react, typescript.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-developer-baoss/react-typescript/rf-38df1e6a12aef3f1c04e",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-61-1789569029985",
+    "title": "Programador Frontend Javascript Michael Page",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "JavaScript"
+    ],
+    "description": "Oferta de empleo para Programador Frontend Javascript Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: javascript.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/programador-frontend-javascript-michael-page/javascript/rf-044e1c6b828b33264f46",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-62-1789569029985",
+    "title": "Ai Frontend Engineer Arelance",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para Ai Frontend Engineer Arelance publicada en Tecnoempleo España. Tecnologías requeridas: react, nextjs.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/ai-frontend-engineer-arelance/react-nextjs/rf-992a168d921c63766e45",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-64-1789569029985",
+    "title": "Frontend Developer React Typescript Ia Panel Siste",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Frontend Developer React Typescript Ia Panel Siste publicada en Tecnoempleo España. Tecnologías requeridas: azure, rest, apis.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-react-typescript-ia-panel-siste/azure-rest-apis/rf-d8d4151b22a543997947",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-66-1789569029985",
+    "title": "Frontend Developer With Italian Ey",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Frontend Developer With Italian Ey publicada en Tecnoempleo España. Tecnologías requeridas: typescript, nodejs.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-with-italian-ey/typescript-nodejs/rf-373b168eb25a835b6b4a",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-70-1789569029985",
+    "title": "React Front End Developer 4 Months Contract Talan",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para React Front End Developer 4 Months Contract Talan publicada en Tecnoempleo España. Tecnologías requeridas: typescript, next.",
+    "postedAt": "2026-09-16T14:30:29.985Z",
+    "sourceUrl": "https://www.tecnoempleo.com/react-front-end-developer-4-months-contract-talan/typescript-next/rf-97b41c6fb2b873eae241",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 73,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-linkedin-11-1789567403325",
+    "title": "React Frontend Engineer (Redux) - Remote Work | REF#303963",
+    "company": "BairesDev",
+    "location": "CAUCA, Sucre, Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "Redux"
+    ],
+    "description": "Oferta de empleo para React Frontend Engineer (Redux) - Remote Work | REF#303963 en BairesDev (CAUCA, Sucre, Colombia). Publicada en LinkedIn Empleos.",
+    "postedAt": "2026-09-16T14:03:23.325Z",
+    "sourceUrl": "https://co.linkedin.com/jobs/view/react-frontend-engineer-redux-remote-work-ref%23303963-at-bairesdev-4464699712",
+    "sourcePlatform": "LinkedIn",
+    "matchScore": 79,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-computrabajo-26-1789567403325",
+    "title": "React Developer Ingl&#xE9;s B2 o Superior Completamente Remoto",
+    "company": "Empresa en CompuTrabajo",
+    "location": "4,6\r\n                \r\n                \r\n            \r\n            \r\n            \r\n                Adecco Colombia S.A., Colombia",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "Oferta de empleo para React Developer Ingl&#xE9;s B2 o Superior Completamente Remoto en Colombia.",
+    "postedAt": "2026-09-16T14:03:23.325Z",
+    "sourceUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-react-developer-ingles-b2-o-superior-completamente-remoto-en-bogota-dc-A0D2620921C48C6E61373E686DCF3405",
+    "sourcePlatform": "CompuTrabajo",
+    "matchScore": 72,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-40-1789567403325",
+    "title": "Front-end Engineer (Angular)",
+    "company": "Empresa en Get on Board",
+    "location": "100% Remoto (Remote)",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "Redux",
+      "RxJS",
+      "Git"
+    ],
+    "description": "   +6 años de experiencia  en desarrollo de software.   Inglés intermedio/avanzado (Obligatorio).   Experiencia sólida con  Angular (v20+) ,  TypeScript (5+) ,  RxJS  y  Redux .  Experiencia con  GitHub .  Manejo de  jQuery .  Experiencia utilizando  Claude  como herramienta de desarrollo asistido por IA.  Manejo de  Jira  y  Confluence .    Buscamos  Senior Frontend Engineer  para desarrollar aplicaciones web modernas con Angular, participando en un equipo que apuesta por nuevas prácticas de ingeniería y desarrollo asistido por Inteligencia Artificial.  Si disfrutas construir interfaces robustas, escribir código de calidad y aprovechar herramientas de IA para acelerar el desarrollo, esta oportunidad es para ti.   Lo que harás:    Desarrollar y evolucionar aplicaciones frontend con Angular.  Construir componentes reutilizables y mantenibles.  Integrar aplicaciones con APIs y servicios backend.  Colaborar en revisiones de código y buenas prácticas de desarrollo.  Utilizar herramientas de IA para mejorar la productividad y la calidad del software.     Contrato a largo plazo.  100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año.  2 revisiones salariales al año.  Clases de inglés.  Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
+    "postedAt": "2026-09-16T14:03:23.325Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/frontend-engineer-angular-improving-south-america-remote",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 100,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-41-1789567403325",
+    "title": "Senior Full-Stack Engineer — .NET y React",
+    "company": "Empresa en Get on Board",
+    "location": "100% Remoto (Remote)",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React"
+    ],
+    "description": "  Este rol NO es para ti si:     Prefieres que te lleguen las tareas ya definidas.  Se te va a decir qué hay que lograr, no cómo. Escalas lo que no esté a tu alcance; el resto lo resuelves.    No estás dispuesto a salir de tu lenguaje.  No pedimos que llegues sabiendo las tres tecnologías: sí que ninguna te frene.    Buscas un entorno protocolar y ordenado.  Somos un scale up con cultura de startup: se avanza rápido, se acepta deuda y hay que ser capaz de crear orden dentro de la fluidez.    Lo que sí necesitamos:     +5 años desarrollando software y experiencia real como fullstack.    .NET/C# sólido.  Es el backend del producto y ahí esperamos fuerza real. Python, que usan los servicios que consumes, se aprende acá.    React de cara al cliente.  No necesitas ser el referente de front, pero sí construir features completas y sostener las convenciones del squad.    Clean Architecture aplicada, no leída.  Inversión de control, dominio aislado de la infraestructura, el tecnologías específicas como piezas desechables: arquitectura evolutiva de verdad.    Testing como parte del entregable.  Cobertura unitaria más tests de integración que levantan las piezas del caso de uso, con terceros simulados. Acá no hay QA: cada equipo prueba hasta donde el riesgo quede manejado.    Diagnóstico de performance e incidentes.  Leer señales de la aplicación —observabilidad, trazas, métricas— y concluir qué dicen del software. La base de datos es un caso concreto: leer el plan de ejecución en vez de adivinarlo, índices, escaneos de tabla.     Tomar cualquier tarea técnica del producto, de punta a punta.  React en el front de cara al cliente, .NET en el backend y Python en los servicios que ese backend consume. No entras a cubrir un hueco de tecnología: entras para que el squad pueda avanzar en los tres frentes a la vez, sin mayor acompañamiento.   Mandar a producción rápido para aprender del uso real.  Valoramos llegar a tiempo al mercado, así que muchas decisiones se toman sabiendo que dejan deuda. Cada sprint reserva un espacio que planifica el propio equipo para robustecer lo que ya se validó como core: distinguir qué deuda se paga y cuál se deja viva es parte del rol.   Desarrollar con agentes y con contención.  Vamos hacia un enfoque agéntico antes que de supervisión humana, y eso se sostiene con tests y restricciones alrededor de lo que hace el agente, no con fe.   Compartir el objetivo de negocio.  El norte es el mismo para todo el squad: quienes vienen del lado de producto y quienes vienen del lado técnico persiguen el mismo resultado. Entiendes la tesis de negocio detrás de un requerimiento antes de implementarlo, y descartas rápido lo que no funciona.   Construir para el Maxxa que viene.  Ya operamos en México y estamos evaluando el próximo país. El segmento al que apunta este producto —la empresa chica, la que nadie financia— es el mismo en toda la región, y lo que validemos acá es lo que se lleva.   Sostener el estándar sin autoridad formal.  El producto se apoya en servicios que construyen otros equipos de Tecnología. No los diriges: los alineas, con criterio propio sobre qué aceptas recibir.   Cómo se ve que vas bien.  Tomas tareas de complejidad creciente sin acompañamiento, los flujos que tocas quedan con su cobertura de tests y empiezas a proponer qué se robustece. Eso es lo que miramos, y se conversa contigo desde el primer día.   En Tecnología nos organizamos en squads de tres a cinco ingenieros con su product owner. La expectativa mutua es ser cada vez mejores ingenieros: hay referentes cercanos en casi todos los frentes, con harta disposición a compartir.  Te unirás a una fintech donde tu energía se ve recompensada:    Modalidad híbrida (1 día a la semana) para personas con residencia en Santiago de Chile y full remoto para otras ubicaciones.   Tiempo de bienestar: con metas cumplidas, sales 30 min antes todos los días. Días administrativos, tarde libre por cumpleaños y día de mudanza.  Asignación de almuerzo.  Seguro complement",
+    "postedAt": "2026-09-16T14:03:23.325Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-net-y-react-maxxa-remote",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 79,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-42-1789567403326",
+    "title": "Full-Stack Senior (Java Spring Boot + Angular)",
+    "company": "Empresa en Get on Board",
+    "location": "Chile",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular",
+      "Node.js",
+      "Git"
+    ],
+    "description": "  Java 8, 11, 17, 21 o superior  Spring Boot  Angular y AngularJS  Node.js  JUnit / Mockito  Maven  Oracle / MongoDB  AWS, Azure, GCP u OCI  Jenkins, SonarQube u otras herramientas de integración y calidad de código  Experiencia con arquitectura de microservicios  Conocimientos en migración o modernización de aplicaciones monolíticas  Uso de herramientas de IA aplicadas al desarrollo, como GitHub Copilot o modelos GPT    Ejecutar el desarrollo integral de soluciones de software, abarcando tanto frontend como backend, y gestionar bases de datos para asegurar aplicaciones robustas, seguras y eficientes que respondan a las necesidades de los clientes.   💰 Bono anual 🎊 Fiesta de fin de año 📅 Días administrativos 🌍 Convenio Mundo ACHS 🏦 Convenio Caja los Andes 🎉 Celebración de fiestas patrias 🍽️ Tarjeta de alimentación Pluxee 🏅 Reconocimiento por trayectoria 🎁 Regalo por nacimiento de hijo/a 💻 Webinars y charlas especializadas 🎓 Capacitación y formación continua 🎂 Medio día libre por tu cumpleaños 🐾 Descuento en seguro para mascotas 🛍️ Acceso a beneficios y descuentos Buk 💼 Desarrollo de competencias laborales 🎄 Aguinaldo de fiestas patrias y fin de año 👶 Días adicionales al postnatal masculino 🏥 Seguro de salud y complementario MetLife 🧘 Programa de bienestar, autocuidado y vida sana 🏧 Cuenta corriente Banco de Chile sin costo de mantención ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/full-stack-senior-java-spring-boot-angular-3it-santiago",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-43-1789567403326",
+    "title": "Front-end Engineer",
+    "company": "Empresa en Get on Board",
+    "location": "Chile",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": " Buscamos a alguien con experiencia práctica desarrollando productos web, que pueda tomar ownership de sus tareas, colaborar con otros equipos y mantener una mirada crítica sobre la calidad de la experiencia frontend.  Experiencia requerida   Al menos 2 a 5 años de experiencia en desarrollo de software o productos digitales.  Experiencia en desarrollo frontend con JavaScript o TypeScript, idealmente utilizando frameworks o librerías modernas como React, Vue, Angular o similares.  Buen dominio de JavaScript moderno, HTML y CSS.  Experiencia trabajando con componentes reutilizables y diseño de interfaces.  Experiencia consumiendo e integrando APIs RESTful.  Manejo de git y plataformas de colaboración como GitHub o Bitbucket.  Capacidad para trabajar en equipos ágiles, participando en sprints, code reviews y mejoras continuas.  Conocimiento de buenas prácticas de seguridad frontend y protección de datos sensibles en interfaces de usuario.   No esperamos que domines todo desde el primer día, pero sí que tengas una base sólida en frontend y ganas de aprender.  Principales   React.js  JavaScript / ES6+  HTML5  CSS3  Consumo de APIs REST  Control de versiones.  Testing frontend    Como Frontend Engineer Semi Senior, serás responsable de construir, mantener y mejorar interfaces de usuario para nuestras aplicaciones web. Trabajarás principalmente con React, JavaScript moderno, HTML, CSS y otros similares, integrando o creando componentes que nos permitan interactuar con otros servicios.  Tus principales responsabilidades serán:   Desarrollar interfaces de usuario interactivas, responsivas, accesibles y mantenibles.  Implementar diseños y especificaciones entregadas por UX/UI, cuidando consistencia visual, usabilidad y experiencia de usuario.  Trabajar junto a otros equipos para integrar APIs RESTful y asegurar una comunicación eficiente entre frontend y servicios.  Participar activamente en refinamientos, planificación de sprint, revisiones de código y retrospectivas.  Mejorar la calidad del código frontend mediante buenas prácticas, componentes reutilizables, estructura clara y testing.  Optimizar el rendimiento de las interfaces, identificando oportunidades de mejora en carga, navegación y experiencia percibida.  Colaborar en la resolución de problemas técnicos, bugs productivos y mejoras evolutivas.  Contribuir a una cultura de desarrollo basada en colaboración, confianza, aprendizaje continuo y foco en impacto.     Personal Days: Día libre por cumpleaños y día libre por mudanza.  3 días extra de vacaciones  Seguro Complementario  Beneficios Caja los Andes  Entre otros  ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/frontend-engineer-cumplo-santiago",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-44-1789567403326",
+    "title": "Full-Stack Developer: React & Node.js",
+    "company": "Empresa en Get on Board",
+    "location": "100% Remoto (Remote)",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "React",
+      "Node.js",
+      "Redux",
+      "Git"
+    ],
+    "description": "   5+ años de experiencia en desarrollo web fullstack.   Experiencia sólida y demostrable en React (componentes funcionales, hooks, state management con Redux, Context API, etc.).   Conocimiento y experiencia en Node.js y frameworks como Express, Nest.js o similares.   Experiencia en desarrollo de APIs REST y comprensión de arquitectura backend.   Familiaridad con bases de datos (SQL y NoSQL) como PostgreSQL, MongoDB, etc.   Experiencia práctica con IA y/o machine learning en aplicaciones web (integración de APIs de IA, LLMs, etc.).   Conocimiento de herramientas de versionamiento (Git) y flujos de trabajo colaborativos.   Dominio de testing (unit tests, integration tests) y prácticas de CI/CD.   Inglés Intermedio-Avanzado o avanzado (requisito indispensable) - necesario para comunicación con equipos globales   Capacidad de trabajar en equipos multidisciplinarios y comunicarse efectivamente.   Proactividad, responsabilidad y compromiso con la calidad del código.      Buscamos un Desarrollador Fullstack con sólida experiencia en React, Node.js y familiaridad con tecnologías de IA. Serás responsable de desarrollar aplicaciones web modernas, escalables y de alto rendimiento, contribuyendo tanto en el frontend como en el backend de un sistema de RRHH. Si te apasiona la tecnología y deseas trabajar en proyectos innovadores con IA, esta es tu oportunidad.     Contrato a largo plazo.  100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año.  2 revisiones salariales al año.  Clases de inglés.  Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 100,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-45-1789567403326",
+    "title": "Desarrollador C#/.NET y Angular Mexico",
+    "company": "Empresa en Get on Board",
+    "location": "Mexico",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "  Formación académica    Formación profesional o técnica en Ingeniería de Sistemas, Ingeniería Informática, Computación, Software o carreras afines.    Experiencia    Mínimo 5 años de experiencia profesional en desarrollo de software (nivel Senior).  Mínimo 3 años de experiencia específica desarrollando con C# / .NET.  Mínimo 2 años de experiencia específica desarrollando con Angular.    Conocimientos técnicos    C# / .NET (Core / Framework) — excluyente.  Angular (versión 8 o superior) — excluyente.  Clean Code y principios SOLID.  Metodologías ágiles (Scrum / Kanban).  SSDLC y prácticas de desarrollo seguro.  APIs REST / Web APIs.  Git y flujos de control de versiones (branching, code review).  Bases de datos relacionales (SQL Server u otras).  HTML, CSS, TypeScript y JavaScript.  Entity Framework u otro ORM.     Desarrollar y mantener funcionalidades backend en C# / .NET según las prioridades definidas por el cliente.  Desarrollar y mantener componentes y vistas frontend en Angular.  Aplicar principios de Clean Code y SOLID en el diseño e implementación de software.  Implementar prácticas de SSDLC (ciclo de vida de desarrollo seguro) a lo largo de todo el proceso.  Participar activamente en ceremonias y prácticas de metodologías ágiles (Scrum / Kanban).  Diseñar, consumir e integrar servicios y APIs REST.  Implementar validaciones y reglas de negocio.  Elaborar pruebas unitarias e integrarlas a los pipelines de CI/CD.  Ejecutar mantenimiento evolutivo y correctivo sobre componentes existentes.  Corregir incidencias identificadas en los componentes desarrollados.  Participar en revisiones de código (code review) y aportar retroalimentación técnica.  Elaborar y actualizar la documentación técnica de los componentes modificados.  Apoyar la transferencia de conocimiento al equipo del cliente.   ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-c-net-y-angular-mexico-bc-tecnologia-mexicali",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 85,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-46-1789567403326",
+    "title": "Desarrollador Full-Stack: Java & Angular",
+    "company": "Empresa en Get on Board",
+    "location": "100% Remoto (Remote)",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "RxJS",
+      "Git"
+    ],
+    "description": "  Backend - Frameworks Java:    SpringBoot (versión 3/4)  Spring Framework (versión 6/7)  Gradle (versión 8/9)    Frontend:    Angular (versiones recientes)  TypeScript  HTML5 y CSS3  RxJS  Angular Material    Bases de Datos:    MongoDB, PostgreSQL, Snowflake (conocimiento básico)    Herramientas:    GitHub, Jira, Confluence, Claude    Nube:    AWS, Azure (conocimiento básico)    Experiencia:    5+ años en desarrollo fullstack  3+ años con Java/Spring Framework  2+ años con Angular  Experiencia en aplicaciones end-to-end completas  Conocimiento de diseño web responsivo y UX    Idiomas:    Inglés intermedio-avanzado o avanzado (indispensable)     Desarrollo Backend:    Desarrollar y mantener aplicaciones backend usando Java y Spring Framework  Diseñar e implementar APIs RESTful y arquitectura de microservicios  Trabajar con múltiples tecnologías de bases de datos para optimizar la gestión de datos    Desarrollo Frontend:    Construir interfaces de usuario responsivas e interactivas usando Angular  Implementar arquitectura basada en componentes siguiendo las mejores prácticas de Angular  Gestionar estado y manejar operaciones asincrónicas con RxJS    General:    Colaborar entre equipos de frontend, backend y DevOps para entregar soluciones completas  Escribir código limpio, mantenible y testeable siguiendo mejores prácticas  Participar en revisiones de código y contribuir a la mejora continua  Troubleshooting y resolución de problemas en producción  Documentar código, APIs y arquitectura del sistema     Contrato a largo plazo. 100% Remoto.  Vacaciones y PTOs  Posibilidad de recibir 2 bonos al año. 2 revisiones salariales al año. Clases de inglés. Equipamiento Apple.  Plataforma de cursos en linea  Budget para compra de libros.  Budget para compra de materiales de trabajo  mucho mas..  ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 100,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-47-1789567403326",
+    "title": "Desarrollador Full-Stack (React, Spring Boot, Oracle DB)",
+    "company": "Empresa en Get on Board",
+    "location": "Chile",
+    "country": "LATAM",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "Redux",
+      "GraphQL",
+      "Docker",
+      "Git",
+      "Jest"
+    ],
+    "description": "  Título profesional de alguna de las siguientes carreras o equivalente: Ingeniería Civil Informática, Ingeniería en Informática o Computación, Ingeniería Civil Industrial, Ingeniería en Información o carrera relacionada, con experiencia comprobable en proyectos tecnológicos.  Entre 3 a 5 años de experiencia como desarrollador fullstack  Conocimiento en React (Hooks, React Router, manejo de estado)  Conocimiento en Spring Boot (Spring Security, JPA/Hibernate)  Conocimiento en SQL avanzado y Oracle DB (PL/SQL deseable)  Conocimiento en Control de versiones con Git  Conocimiento en Consumo e implementación de APIs REST     Construir y mantener interfaces con React, gestionar estado con herramientas como Redux o Context API, y garantizar experiencias responsivas y accesibles  Diseñar y exponer APIs RESTful o GraphQL con Spring Boot, aplicando buenas prácticas de arquitectura (capas, seguridad, manejo de excepciones).  Modelar esquemas en Oracle DB, escribir consultas SQL optimizadas, procedimientos almacenados y gestionar migraciones con Liquibase o Flyway  Configurar pipelines CI/CD, gestionar contenedores Docker y colaborar en despliegues en entornos cloud o servidores on-premise.  Escribir pruebas unitarias e integración (JUnit, Jest/React Testing Library), participar en code reviews y mantener estándares de documentación técnica.  Trabajar junto a equipos de producto, UX y QA bajo metodologías ágiles (Scrum/Kanban), contribuyendo en la definición técnica de historias de usuario.     ¿Qué puedes esperar de nosotros?    Flexibilidad laboral, promoviendo el equilibrio en tu vida personal y profesional.  Desarrollo profesional y evolución constante de tus habilidades, siempre según tus intereses.  Un ambiente colaborativo, diverso e innovador, que fomenta el trabajo en equipo.    ¿Qué ofrecemos?   SONDA Academy, una plataforma educativa de aprendizaje constante que busca potenciar al máximo tu desarrollo profesional.  Trabajo híbrido, en SONDA sabemos que la flexibilidad es importante para tu bienestar es por eso que contamos con jornadas presenciales y de teletrabajo.  SONDA Wellness, un programa que busca apoyarte en el balance de tu vida personal y profesional, que promoviendo una serie de iniciativas enfocadas en tu salud física, mental y social.  ¡Y mucho más!  + Diversidad +Inclusión = Innovación y colaboración  ¡Sé parte de nuestro equipo! ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 100,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-getonboard-48-1789567403326",
+    "title": "Desarrollador/a Full-Stack – Angular / .NET / Azure (Perú)",
+    "company": "Empresa en Get on Board",
+    "location": "Peru",
+    "country": "LATAM",
+    "modality": "REMOTE",
+    "stack": [
+      "Angular",
+      "Git"
+    ],
+    "description": "  Mínimo 4 años de experiencia en desarrollo de software.  Mínimo 2 años de experiencia en proyectos del sector bancario o financiero.  Experiencia comprobable con Angular y .NET.  Experiencia en desarrollo y consumo de APIs.  Conocimiento de arquitecturas de microservicios.  Experiencia con Microsoft Azure.  Manejo de GitHub Enterprise y GitHub Actions.  Experiencia en pruebas unitarias y de integración.  Experiencia en revisión de código mediante pull requests.  Conocimientos de DevSecOps y seguridad de aplicaciones.  Experiencia en documentación técnica.  Formación en Ingeniería de Sistemas, Informática, Software o carrera afín.    Desarrollar componentes frontend con Angular y backend con .NET. Participar en el análisis técnico de requerimientos. Desarrollar e integrar APIs y microservicios. Ejecutar pruebas unitarias y de integración. Participar en pipelines CI/CD mediante GitHub Actions. Gestionar código mediante GitHub Enterprise y pull requests. Aplicar buenas prácticas de seguridad bajo enfoque DevSecOps. Elaborar documentación técnica. Participar en despliegues, soporte y estabilización de componentes. Colaborar en la transferencia de conocimiento al equipo del cliente.   Modalidad: Híbrida. Ubicación: San Borja, Lima, Perú. Duración: 12 meses, con posibilidad de continuidad. Vacantes: 1. ",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima",
+    "sourcePlatform": "GetOnBoard",
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-51-1789567403326",
+    "title": "Desarrollador Frontend Angular Baoss",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "Angular",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend Angular Baoss publicada en Tecnoempleo España. Tecnologías requeridas: html5, css3, javascript.",
+    "postedAt": "2026-09-16T14:03:23.326Z",
+    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-angular-baoss/html5-css3-javascript/rf-193f16cf3277a3071d47",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 78,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-53-1789567403327",
+    "title": "Desarrollador Frontend Engineer Angular React Auba",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "Angular",
+      "TypeScript"
+    ],
+    "description": "Oferta de empleo para Desarrollador Frontend Engineer Angular React Auba publicada en Tecnoempleo España. Tecnologías requeridas: typescript, api, query.",
+    "postedAt": "2026-09-16T14:03:23.327Z",
+    "sourceUrl": "https://www.tecnoempleo.com/desarrollador-frontend-engineer-angular-react-auba/typescript-api-query/rf-9a7c1c63c2e1e32f7340",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-58-1789567403327",
+    "title": "Senior Frontend React Sopra Steria",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "JavaScript",
+      "HTML"
+    ],
+    "description": "Oferta de empleo para Senior Frontend React Sopra Steria publicada en Tecnoempleo España. Tecnologías requeridas: javascript, html.",
+    "postedAt": "2026-09-16T14:03:23.327Z",
+    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-react-sopra-steria/javascript-html/rf-a49d12eda23243113846",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-60-1789567403327",
+    "title": "Senior Frontend Developer React Michael Page",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "JavaScript"
+    ],
+    "description": "Oferta de empleo para Senior Frontend Developer React Michael Page publicada en Tecnoempleo España. Tecnologías requeridas: javascript.",
+    "postedAt": "2026-09-16T14:03:23.327Z",
+    "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-developer-react-michael-page/javascript/rf-5c02182ea2f7a368124b",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-61-1789567403327",
+    "title": "Frontend Developer React Hays",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
     "stack": [
       "React",
       "TypeScript",
-      "Angular",
-      "Next.js"
+      "JavaScript"
     ],
-    "description": "Oferta de empleo para Frontend Developer Vuejs Nuxt Sopra Steria publicada en Tecnoempleo España. Tecnologías requeridas: vue.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-vuejs-nuxt-sopra-steria/vue/rf-9ea91f97425dc37a0744",
+    "description": "Oferta de empleo para Frontend Developer React Hays publicada en Tecnoempleo España. Tecnologías requeridas: javascript, typescript.",
+    "postedAt": "2026-09-16T14:03:23.327Z",
+    "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-react-hays/javascript-typescript/rf-cd2015a5327f23fe4d47",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 78,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-70-1789515721084",
+    "id": "job-tecnoempleo-66-1789567403327",
+    "title": "Ingeniero Software Frontend Angular Gmv",
+    "company": "Empresa en Tecnoempleo",
+    "location": "España (Remoto / Híbrido)",
+    "country": "España",
+    "modality": "HYBRID",
+    "stack": [
+      "React",
+      "Angular",
+      "HTML"
+    ],
+    "description": "Oferta de empleo para Ingeniero Software Frontend Angular Gmv publicada en Tecnoempleo España. Tecnologías requeridas: react, html5.",
+    "postedAt": "2026-09-16T14:03:23.327Z",
+    "sourceUrl": "https://www.tecnoempleo.com/ingeniero-software-frontend-angular-gmv/react-html5/rf-3b90185de20793751544",
+    "sourcePlatform": "Tecnoempleo",
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
+  },
+  {
+    "id": "job-tecnoempleo-69-1789567403327",
     "title": "Frontend Developer Angular Hibrido",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
       "Angular",
-      "Next.js"
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS"
     ],
     "description": "Oferta de empleo para Frontend Developer Angular Hibrido publicada en Tecnoempleo España. Tecnologías requeridas: angular, html, css, javascript, typescript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:03:23.327Z",
     "sourceUrl": "https://www.tecnoempleo.com/frontend-developer-angular-hibrido/angular-html-css-javascript-typescript/rf-e524150cb26603fdc147",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:50:54.958Z"
+    "matchScore": 93,
+    "isApplied": false,
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-71-1789515721084",
+    "id": "job-tecnoempleo-70-1789567403327",
     "title": "Senior Frontend Developer Granada",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
     ],
     "description": "Oferta de empleo para Senior Frontend Developer Granada publicada en Tecnoempleo España. Tecnologías requeridas: javascript, vuejs, nuxtjs, html, css, git.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:03:23.327Z",
     "sourceUrl": "https://www.tecnoempleo.com/senior-frontend-developer-granada/javascript-vuejs-nuxtjs-html-css-git/rf-3bd91808727ab3fae94d",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:51:20.386Z"
+    "matchScore": 71,
+    "isApplied": false,
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-72-1789515721084",
+    "id": "job-tecnoempleo-71-1789567403327",
     "title": "Desarrollador Angular Senior Plus Java Arelance",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
       "Angular",
-      "Next.js"
+      "TypeScript",
+      "RxJS"
     ],
     "description": "Oferta de empleo para Desarrollador Angular Senior Plus Java Arelance publicada en Tecnoempleo España. Tecnologías requeridas: typescript, rxjs.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:03:23.327Z",
     "sourceUrl": "https://www.tecnoempleo.com/desarrollador-angular-senior-plus-java-arelance/typescript-rxjs/rf-339d1050f2bc9307d641",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:52:20.338Z"
-  },
-  {
-    "id": "job-tecnoempleo-73-1789515721084",
-    "title": "Fullstack Java Angular Ai Senior Inglesb2 Cas Trai",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Fullstack Java Angular Ai Senior Inglesb2 Cas Trai publicada en Tecnoempleo España. Tecnologías requeridas: ia, aws.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/fullstack-java-angular-ai-senior-inglesb2-cas-trai/ia-aws/rf-6b3a1707925e33b74d4f",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
-    "isApplied": true,
-    "applicationStatus": "SUCCESS",
-    "appliedAt": "2026-09-16T01:54:02.150Z"
-  },
-  {
-    "id": "job-tecnoempleo-74-1789515721084",
-    "title": "Full Stack Developer Java Ai Native Ingles Alto Gr",
-    "company": "Empresa en Tecnoempleo",
-    "location": "España (Remoto / Híbrido)",
-    "country": "España",
-    "modality": "HYBRID",
-    "region": "SPAIN",
-    "stack": [
-      "React",
-      "TypeScript",
-      "Angular",
-      "Next.js"
-    ],
-    "description": "Oferta de empleo para Full Stack Developer Java Ai Native Ingles Alto Gr publicada en Tecnoempleo España. Tecnologías requeridas: spring, boot, microservic.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
-    "sourceUrl": "https://www.tecnoempleo.com/full-stack-developer-java-ai-native-ingles-alto-gr/spring-boot-microservic/rf-d17f15467227637a4e49",
-    "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 78,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   },
   {
-    "id": "job-tecnoempleo-75-1789515721084",
+    "id": "job-tecnoempleo-74-1789567403327",
     "title": "Tech Lead Angular Arelance",
     "company": "Empresa en Tecnoempleo",
     "location": "España (Remoto / Híbrido)",
     "country": "España",
     "modality": "HYBRID",
-    "region": "SPAIN",
     "stack": [
-      "React",
-      "TypeScript",
       "Angular",
-      "Next.js"
+      "TypeScript",
+      "JavaScript"
     ],
     "description": "Oferta de empleo para Tech Lead Angular Arelance publicada en Tecnoempleo España. Tecnologías requeridas: javascript, typescript.",
-    "postedAt": "2026-09-15T23:42:01.084Z",
+    "postedAt": "2026-09-16T14:03:23.327Z",
     "sourceUrl": "https://www.tecnoempleo.com/tech-lead-angular-arelance/javascript-typescript/rf-e4091e56d2f423ab9745",
     "sourcePlatform": "Tecnoempleo",
-    "matchScore": 90,
-    "matchReasons": [
-      "Oferta en Español para perfil Frontend (Tecnoempleo)",
-      "Despacho regional asignado: Ubicación explícita en España detectada: \"españa\""
-    ],
-    "keyPros": [
-      "100% en Español",
-      "Portal: Tecnoempleo",
-      "Ubicación: España (Remoto / Híbrido)"
-    ],
-    "generatedCoverLetter": "Estimado equipo de selección de Empresa en Tecnoempleo,\n\nMi nombre es Diego Villanueva, Ingeniero de Sistemas con más de 8 años de experiencia en desarrollo Frontend con Angular, React, Next.js y TypeScript...\n\nAtentamente,\nDiego Villanueva",
-    "assignedCvId": "CV_ES",
-    "cvAssignmentReason": "Ubicación explícita en España detectada: \"españa\"",
-    "cvAssignmentConfidence": 1,
+    "matchScore": 78,
     "isApplied": false,
-    "applicationStatus": "QUEUED"
+    "isDismissed": false
   }
 ]

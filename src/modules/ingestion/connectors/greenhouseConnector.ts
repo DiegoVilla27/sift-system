@@ -6,7 +6,7 @@ export interface RawIngestedJob {
   company: string;
   location: string;
   sourceUrl: string;
-  sourcePlatform: "Greenhouse" | "Lever" | "RemoteOK" | "Remotive" | "LinkedIn" | "InfoJobs" | "GetOnBoard" | "Tecnoempleo" | "Other";
+  sourcePlatform: string;
   rawDescription: string;
   companySlug: string;
   regionHint?: "SPAIN" | "LATAM" | "GLOBAL";

@@ -24,7 +24,7 @@ export async function fetchRemotiveJobs(): Promise<RawIngestedJob[]> {
         sourcePlatform: "Remotive",
         rawDescription: (item.description || "").replace(/<[^>]+>/g, " ").slice(0, 4000),
         companySlug: item.company_name.toLowerCase().replace(/[^a-z0-9]/g, ""),
-        regionHint: "GLOBAL",
+        regionHint: "LATAM",
       });
     }
 

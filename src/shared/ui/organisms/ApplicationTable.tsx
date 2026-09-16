@@ -1,170 +1,138 @@
 "use client";
 
-import React, { useState } from "react";
-import { ApplicationRecord } from "@/shared/types";
+import React from "react";
+import { PostulacionRecord, ApplicationStage } from "@/shared/types";
 import { Badge } from "@/shared/ui/atoms/Badge";
 import { Button } from "@/shared/ui/atoms/Button";
 import { formatDate } from "@/shared/lib/utils";
 import {
+  MessageSquarePlus,
   ExternalLink,
-  CheckCircle2,
-  Clock,
-  ChevronRight,
-  FileCode,
+  MapPin,
   Globe,
-  Building2,
 } from "lucide-react";
 
-export interface ApplicationTableProps {
-  applications: ApplicationRecord[];
+interface ApplicationTableProps {
+  applications: PostulacionRecord[];
+  onOpenTracking: (app: PostulacionRecord) => void;
 }
 
-export const ApplicationTable: React.FC<ApplicationTableProps> = ({ applications }) => {
-  const [selectedAppLogs, setSelectedAppLogs] = useState<ApplicationRecord | null>(null);
+const STAGE_STYLES: Record<ApplicationStage, string> = {
+  POSTULADA: "bg-blue-500/20 text-blue-400",
+  EN_PROCESO: "bg-amber-500/20 text-amber-400",
+  ENTREVISTA: "bg-purple-500/20 text-purple-400",
+  OFERTA: "bg-emerald-500/20 text-emerald-400",
+  RECHAZADA: "bg-rose-500/20 text-rose-400",
+};
+
+const STAGE_LABELS: Record<ApplicationStage, string> = {
+  POSTULADA: "📩 Postulada",
+  EN_PROCESO: "⏳ En Proceso",
+  ENTREVISTA: "🎙️ Entrevista",
+  OFERTA: "🎉 Oferta",
+  RECHAZADA: "❌ Rechazada",
+};
+
+export function ApplicationTable({
+  applications,
+  onOpenTracking,
+}: ApplicationTableProps) {
+  if (applications.length === 0) return null;
 
   return (
-    <div className="space-y-4">
-      <div className="overflow-x-auto border border-slate-800 rounded-xl bg-[#0d1527]/90">
-        <table className="w-full text-left border-collapse text-xs">
-          <thead>
-            <tr className="border-b border-slate-800 bg-slate-900/60 text-slate-400 font-semibold uppercase tracking-wider">
-              <th className="py-3 px-4">Vacante & Empresa</th>
-              <th className="py-3 px-4">Modalidad</th>
-              <th className="py-3 px-4">CV Despachada</th>
-              <th className="py-3 px-4">Salario</th>
-              <th className="py-3 px-4">Score</th>
-              <th className="py-3 px-4">Estado</th>
-              <th className="py-3 px-4">Fecha Postulación</th>
-              <th className="py-3 px-4 text-right">Auditoría / ATS</th>
-            </tr>
-          </thead>
-          <tbody className="divide-y divide-slate-800/60 text-slate-300">
-            {applications.map((app) => {
-              const isES = app.cvUsed === "CV_ES";
-              return (
-                <tr key={app.id} className="hover:bg-slate-850/40 transition-colors">
-                  <td className="py-3.5 px-4">
-                    <div className="font-semibold text-slate-100">{app.jobTitle}</div>
-                    <div className="text-slate-400 text-[11px]">{app.company} • {app.location}</div>
-                  </td>
-
-                  <td className="py-3.5 px-4">
-                    <Badge variant={app.modality === "REMOTE" ? "success" : "info"} size="sm">
-                      {app.modality === "REMOTE" ? "Remoto" : "Híbrido"}
-                    </Badge>
-                  </td>
-
-                  <td className="py-3.5 px-4">
-                    <span className="inline-flex items-center gap-1.5 font-medium text-slate-200">
-                      <span>{isES ? "🇪🇸" : "🇨🇴"}</span>
-                      <span>{isES ? "CV España" : "CV Colombia"}</span>
-                    </span>
-                  </td>
-
-                  <td className="py-3.5 px-4 font-mono text-[11px] text-emerald-400 font-medium whitespace-nowrap">
-                    {app.salary || "En rango esperado"}
-                  </td>
-
-                  <td className="py-3.5 px-4 font-bold text-emerald-400">
-                    {app.matchScore}%
-                  </td>
-
-                  <td className="py-3.5 px-4">
-                    <Badge variant="success" size="sm" className="gap-1">
-                      <CheckCircle2 className="w-3 h-3" /> Enviada 100% Auto
-                    </Badge>
-                  </td>
-
-                  <td className="py-3.5 px-4 text-slate-400">
-                    {formatDate(app.appliedAt)}
-                  </td>
-
-                  <td className="py-3.5 px-4 text-right">
-                    <div className="flex items-center justify-end gap-2">
-                      <Button
-                        variant="ghost"
-                        size="sm"
-                        onClick={() => setSelectedAppLogs(app)}
-                        leftIcon={<FileCode className="w-3.5 h-3.5 text-blue-400" />}
-                        className="text-xs"
-                      >
-                        Logs
-                      </Button>
-                      <a
-                        href={app.portalUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="p-1.5 text-slate-400 hover:text-white rounded hover:bg-slate-800 transition-colors"
-                        title="Ver en portal ATS"
-                      >
-                        <ExternalLink className="w-3.5 h-3.5" />
-                      </a>
-                    </div>
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-      </div>
-
-      {/* Log Details Modal */}
-      {selectedAppLogs && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 animate-in fade-in">
-          <div className="bg-[#0d1527] border border-slate-800 rounded-xl max-w-xl w-full p-5 shadow-2xl space-y-4">
-            <div className="flex items-center justify-between border-b border-slate-800 pb-3">
-              <div>
-                <h3 className="text-sm font-bold text-slate-100">
-                  Logs de Postulación Automática
-                </h3>
-                <p className="text-xs text-slate-400">
-                  {selectedAppLogs.jobTitle} en {selectedAppLogs.company}
-                </p>
-              </div>
-              <button
-                onClick={() => setSelectedAppLogs(null)}
-                className="text-slate-400 hover:text-white text-xs px-2 py-1 rounded bg-slate-800"
-              >
-                Cerrar
-              </button>
-            </div>
-
-            <div className="bg-[#090d16] p-3 rounded-lg border border-slate-800/80 font-mono text-[11px] space-y-2 max-h-60 overflow-y-auto">
-              {selectedAppLogs.logs.map((log, i) => (
-                <div key={i} className="flex items-start gap-2">
-                  <span className="text-slate-500">[{log.timestamp}]</span>
-                  <span
-                    className={
-                      log.level === "SUCCESS"
-                        ? "text-emerald-400"
-                        : log.level === "WARN"
-                        ? "text-amber-400"
-                        : log.level === "ERROR"
-                        ? "text-red-400"
-                        : "text-slate-300"
-                    }
+    <div className="overflow-x-auto rounded-xl border border-slate-800">
+      <table className="w-full text-xs">
+        <thead>
+          <tr className="bg-[#0a0f1e] border-b border-slate-800">
+            <th className="text-left px-4 py-3 text-slate-400 font-semibold">Puesto</th>
+            <th className="text-left px-3 py-3 text-slate-400 font-semibold">Empresa</th>
+            <th className="text-left px-3 py-3 text-slate-400 font-semibold">Ubicación</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Modalidad</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Portal</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Etapa</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Fecha</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Notas</th>
+            <th className="text-center px-3 py-3 text-slate-400 font-semibold">Acciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          {applications.map((app) => (
+            <tr
+              key={app.id}
+              className="border-b border-slate-800/60 hover:bg-slate-800/20 transition-colors"
+            >
+              <td className="px-4 py-3 max-w-[220px]">
+                <span className="text-slate-100 font-medium line-clamp-1">
+                  {app.jobTitle}
+                </span>
+              </td>
+              <td className="px-3 py-3 text-slate-300 truncate max-w-[130px]">
+                {app.company}
+              </td>
+              <td className="px-3 py-3 text-slate-400">
+                <span className="flex items-center gap-1 truncate max-w-[130px]">
+                  <MapPin className="w-3 h-3 shrink-0" />
+                  {app.location}
+                </span>
+              </td>
+              <td className="px-3 py-3 text-center">
+                <Badge
+                  variant={app.modality === "REMOTE" ? "success" : "info"}
+                  size="sm"
+                >
+                  <Globe className="w-3 h-3 mr-1" />
+                  {app.modality === "REMOTE" ? "Remoto" : "Híbrido"}
+                </Badge>
+              </td>
+              <td className="px-3 py-3 text-center">
+                <Badge variant="outline" size="sm">
+                  {app.sourcePlatform}
+                </Badge>
+              </td>
+              <td className="px-3 py-3 text-center">
+                <span
+                  className={`px-2 py-1 rounded-lg text-[10px] font-semibold ${
+                    STAGE_STYLES[app.stage] || STAGE_STYLES.POSTULADA
+                  }`}
+                >
+                  {STAGE_LABELS[app.stage] || app.stage}
+                </span>
+              </td>
+              <td className="px-3 py-3 text-center text-slate-400">
+                {formatDate(app.appliedAt)}
+              </td>
+              <td className="px-3 py-3 text-center">
+                <span className="text-slate-400 text-[10px]">
+                  {app.trackingNotes?.length || 0}
+                </span>
+              </td>
+              <td className="px-3 py-3">
+                <div className="flex items-center justify-center gap-1.5">
+                  <Button
+                    size="sm"
+                    variant="outline"
+                    onClick={() => onOpenTracking(app)}
+                    className="text-[10px] px-2 py-1"
+                    title="Gestionar seguimiento"
                   >
-                    [{log.level}]
-                  </span>
-                  <span className="text-slate-300">{log.message}</span>
+                    <MessageSquarePlus className="w-3 h-3" />
+                  </Button>
+                  {app.sourceUrl && (
+                    <a
+                      href={app.sourceUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="p-1 rounded text-slate-500 hover:text-blue-400 transition-colors"
+                    >
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
+                  )}
                 </div>
-              ))}
-            </div>
-
-            <div className="flex items-center justify-between text-xs text-slate-400 pt-2 border-t border-slate-800">
-              <span>CV Enviada: <strong>{selectedAppLogs.cvLabel}</strong></span>
-              <a
-                href={selectedAppLogs.portalUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-400 hover:underline flex items-center gap-1"
-              >
-                Abrir Portal ATS <ExternalLink className="w-3 h-3" />
-              </a>
-            </div>
-          </div>
-        </div>
-      )}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
-};
+}

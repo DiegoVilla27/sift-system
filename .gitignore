@@ -15,3 +15,4 @@ next-env.d.ts
 # Storage
 storage/sessions/
 storage/screenshots/
+.pnpm-store/

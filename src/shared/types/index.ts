@@ -1,57 +1,54 @@
+/** Modalidad de trabajo de la vacante */
 export type JobModality = "REMOTE" | "HYBRID" | "ONSITE";
 
-export type TargetRegion = "SPAIN" | "LATAM" | "UNKNOWN";
+/** Plataformas de búsqueda soportadas */
+export type SourcePlatform =
+  | "LinkedIn"
+  | "InfoJobs"
+  | "CompuTrabajo"
+  | "GetOnBoard"
+  | "Tecnoempleo"
+  | "Greenhouse"
+  | "Lever"
+  | "RemoteOK"
+  | "Remotive"
+  | "PeakU"
+  | "Torre"
+  | "Manfred"
+  | "Bumeran"
+  | "Empleate"
+  | "Jobatus"
+  | "Talent"
+  | "Google"
+  | "Domestika"
+  | "Jooble"
+  | "WeWorkRemotely"
+  | "Other";
 
-export type CVId = "CV_ES" | "CV_CO";
-
+/** Vacante de empleo encontrada en los portales */
 export interface Job {
   id: string;
   title: string;
   company: string;
-  companyLogo?: string;
   location: string;
-  city?: string;
   country: string;
   modality: JobModality;
-  region: TargetRegion;
-  salaryRange?: {
-    min: number;
-    max: number;
-    currency: "EUR" | "USD" | "COP";
-  };
   stack: string[];
-  requiredYears?: number;
   description: string;
   postedAt: string;
   sourceUrl: string;
-  sourcePlatform: "Greenhouse" | "Lever" | "RemoteOK" | "Remotive" | "InfoJobs" | "LinkedIn" | "GetOnBoard" | "Tecnoempleo" | "Other";
-  
-  // AI Enrichment
-  matchScore: number; // 0 - 100
-  matchReasons: string[];
-  missingSkills?: string[];
-  keyPros: string[];
-  keyCons?: string[];
-  generatedCoverLetter: string;
-  
-  // Strict CV Routing
-  assignedCvId: CVId;
-  cvAssignmentReason: string;
-  cvAssignmentConfidence: number; // 0 - 1
-  
-  // Application Status
+  sourcePlatform: SourcePlatform;
+  matchScore: number;
+  salaryRange?: string;
+
+  /** Estado de gestión */
   isApplied: boolean;
   appliedAt?: string;
-  applicationStatus?: "QUEUED" | "IN_PROGRESS" | "SUCCESS" | "FAILED";
-  alreadyApplied?: boolean;
-  cooldownDaysRemaining?: number;
-
-  // Dismissal Status
   isDismissed?: boolean;
   dismissedAt?: string;
-  dismissReason?: string;
 }
 
+/** Registro de vacante descartada (persistido para ignorar en futuras búsquedas) */
 export interface DismissedJobRecord {
   id: string;
   jobId: string;
@@ -59,61 +56,65 @@ export interface DismissedJobRecord {
   jobTitle: string;
   portalUrl?: string;
   dismissedAt: string;
-  reason?: string;
 }
 
-export type ApplicationStage = "APPLIED" | "IN_REVIEW" | "INTERVIEW" | "REJECTED" | "OFFER";
+/** Etapa de seguimiento de una postulación */
+export type ApplicationStage =
+  | "POSTULADA"
+  | "EN_PROCESO"
+  | "ENTREVISTA"
+  | "OFERTA"
+  | "RECHAZADA";
 
-export interface CVProfile {
-  id: CVId;
-  code: "ES" | "CO";
-  name: string;
-  flag: string;
-  tagline: string;
-  candidateName: string;
-  email: string;
-  phone: string;
-  locationLabel: string;
-  legalStatus: string;
-  pdfFilename: string;
-  pdfSizeBytes: number;
-  lastUpdated: string;
-  headline: string;
-  summary: string;
-  coreStack: string[];
-  targetRegions: string[];
-  targetCountries: string[];
-  matchKeywords: string[];
+/** Nota de seguimiento dentro de una postulación */
+export interface TrackingNote {
+  id: string;
+  createdAt: string;
+  text: string;
 }
 
-export interface ApplicationRecord {
+/** Registro de postulación gestionada por el usuario */
+export interface PostulacionRecord {
   id: string;
   jobId: string;
   jobTitle: string;
   company: string;
   location: string;
   modality: JobModality;
-  cvUsed: CVId;
-  cvLabel: string;
+  sourceUrl: string;
+  sourcePlatform: SourcePlatform;
   appliedAt: string;
-  status: "SUCCESS" | "FAILED" | "QUEUED";
-  stage?: ApplicationStage;
-  notes?: string;
-  matchScore: number;
-  salary?: string;
-  sourcePlatform: string;
-  portalUrl: string;
-  logs: {
-    timestamp: string;
-    level: "INFO" | "SUCCESS" | "WARN" | "ERROR";
-    message: string;
-  }[];
+  stage: ApplicationStage;
+  salaryRange?: string;
+  trackingNotes: TrackingNote[];
 }
 
-export interface DiscordNotificationConfig {
-  webhookUrl: string;
-  isEnabled: boolean;
-  minScoreThreshold: number; // e.g. 85
-  notifyOnAutoApply: boolean;
-  notifyOnAmbiguity: boolean;
+/** Configuración de plataforma o empresa de búsqueda */
+export interface PortalConfig {
+  id: string;
+  name: string;
+  category: "portal" | "company_ats";
+  enabled: boolean;
+  url?: string;
+  regionHint?: "SPAIN" | "LATAM" | "GLOBAL";
+  ats?: "greenhouse" | "lever";
+  slug?: string;
+  isCustom?: boolean;
 }
+
+/** Perfil del usuario/candidato que realiza las búsquedas */
+export interface CandidateProfile {
+  fullName: string;
+  email: string;
+  phone?: string;
+  location?: string;
+  roleTitle: string;
+  yearsOfExperience?: number;
+  technologies: string[];
+  minMatchScore?: number;
+  cvFileName?: string;
+  cvText?: string;
+  lastUpdated: string;
+}
+
+

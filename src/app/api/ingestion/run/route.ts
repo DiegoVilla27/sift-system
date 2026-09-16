@@ -1,22 +1,43 @@
 import { NextResponse } from "next/server";
-import { runIngestionPipeline, getIngestedJobs } from "@/modules/ingestion/ingestionService";
+import {
+  getIngestedJobs,
+  runIngestionPipeline,
+} from "@/modules/ingestion/ingestionService";
 
+/**
+ * GET /api/ingestion/run
+ * Retorna las vacantes ya almacenadas en disco.
+ */
 export async function GET() {
-  const jobs = getIngestedJobs();
-  return NextResponse.json({ success: true, count: jobs.length, jobs });
+  try {
+    const jobs = getIngestedJobs();
+    return NextResponse.json({ success: true, jobs });
+  } catch (error) {
+    console.error("Error al leer vacantes:", error);
+    return NextResponse.json(
+      { success: false, error: "Error al leer vacantes almacenadas" },
+      { status: 500 }
+    );
+  }
 }
 
+/**
+ * POST /api/ingestion/run
+ * Ejecuta la búsqueda masiva en TODAS las plataformas.
+ */
 export async function POST() {
   try {
     const result = await runIngestionPipeline();
     return NextResponse.json({
       success: true,
-      message: `Ingesta completada: ${result.newJobsCount} vacantes de Frontend extraídas en tiempo real.`,
-      ...result,
+      totalFetched: result.totalFetched,
+      newJobsCount: result.newJobsCount,
+      jobs: result.jobs,
     });
   } catch (error) {
+    console.error("Error en pipeline de ingesta:", error);
     return NextResponse.json(
-      { success: false, error: error instanceof Error ? error.message : "Error durante la ingesta" },
+      { success: false, error: "Error al buscar vacantes en las plataformas" },
       { status: 500 }
     );
   }

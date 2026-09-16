@@ -60,7 +60,7 @@ export async function fetchCompuTrabajoJobs(): Promise<RawIngestedJob[]> {
           company,
           location: `${location}, Colombia`,
           sourceUrl: fullUrl,
-          sourcePlatform: "Other", // CompuTrabajo
+          sourcePlatform: "CompuTrabajo",
           rawDescription: description,
           companySlug: company.toLowerCase().replace(/[^a-z0-9]/g, ""),
           regionHint: "LATAM",

@@ -1,30 +1,18 @@
-import { NextResponse } from "next/server";
-import {
-  dismissJob,
-  undismissJob,
-  getStoredDismissedJobs,
-} from "@/modules/storage/jsonStorage";
+import { NextRequest, NextResponse } from "next/server";
+import { dismissJob } from "@/modules/storage/jsonStorage";
 
-export async function GET() {
+/**
+ * POST /api/jobs/dismiss
+ * Rechaza una vacante para que no aparezca de nuevo.
+ */
+export async function POST(request: NextRequest) {
   try {
-    const dismissed = getStoredDismissedJobs();
-    return NextResponse.json({ success: true, dismissed });
-  } catch (error) {
-    return NextResponse.json(
-      { success: false, error: error instanceof Error ? error.message : "Error al obtener ofertas descartadas" },
-      { status: 500 }
-    );
-  }
-}
-
-export async function POST(req: Request) {
-  try {
-    const body = await req.json();
-    const { jobId, company, title, sourceUrl, reason } = body;
+    const body = await request.json();
+    const { jobId, company, title, sourceUrl } = body;
 
     if (!jobId || !company || !title) {
       return NextResponse.json(
-        { success: false, error: "jobId, company y title son obligatorios" },
+        { success: false, error: "Faltan campos requeridos: jobId, company, title" },
         { status: 400 }
       );
     }
@@ -34,39 +22,13 @@ export async function POST(req: Request) {
       company,
       jobTitle: title,
       portalUrl: sourceUrl,
-      reason,
     });
 
-    return NextResponse.json({
-      success: true,
-      message: `Oferta en ${company} descartada correctamente`,
-    });
+    return NextResponse.json({ success: true });
   } catch (error) {
+    console.error("Error al rechazar vacante:", error);
     return NextResponse.json(
-      { success: false, error: error instanceof Error ? error.message : "Error al descartar la oferta" },
-      { status: 500 }
-    );
-  }
-}
-
-export async function DELETE(req: Request) {
-  try {
-    const body = await req.json();
-    const { jobId } = body;
-
-    if (!jobId) {
-      return NextResponse.json({ success: false, error: "jobId es requerido" }, { status: 400 });
-    }
-
-    undismissJob(jobId);
-
-    return NextResponse.json({
-      success: true,
-      message: "Oferta restaurada a disponibles",
-    });
-  } catch (error) {
-    return NextResponse.json(
-      { success: false, error: error instanceof Error ? error.message : "Error al restaurar oferta" },
+      { success: false, error: "Error al rechazar la vacante" },
       { status: 500 }
     );
   }

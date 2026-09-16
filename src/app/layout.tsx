@@ -3,8 +3,9 @@ import "./globals.css";
 import { HeaderNavbar } from "@/shared/ui/organisms/HeaderNavbar";
 
 export const metadata: Metadata = {
-  title: "Sift System | Frontend Job Scout & Autonomous Apply",
-  description: "Sistema inteligente de búsqueda, filtrado con IA y postulación automatizada a ofertas de Frontend.",
+  title: "Sift System | Gestor de Búsqueda de Empleo Frontend",
+  description:
+    "Busca vacantes de desarrollo frontend en 16+ plataformas simultáneamente. Gestiona tus postulaciones con seguimiento centralizado.",
 };
 
 export default function RootLayout({

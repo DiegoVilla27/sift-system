@@ -2,46 +2,46 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
-import { Job, CVId } from "@/shared/types";
+import { Job, CandidateProfile, PortalConfig } from "@/shared/types";
 import { StatCard } from "@/shared/ui/molecules/StatCard";
-import { ViewModeToggle, ViewMode } from "@/shared/ui/molecules/ViewModeToggle";
-import { JobCard } from "@/shared/ui/organisms/JobCard";
-import { JobTable } from "@/shared/ui/organisms/JobTable";
-import { JobDetailDrawer } from "@/shared/ui/organisms/JobDetailDrawer";
-import { Badge } from "@/shared/ui/atoms/Badge";
 import { Button } from "@/shared/ui/atoms/Button";
 import {
+  Search,
   Briefcase,
-  Send,
-  Sparkles,
   CheckCircle2,
   ArrowRight,
-  ShieldCheck,
-  Bell,
+  Sparkles,
   Zap,
-  Radio,
+  Globe,
+  Sliders,
+  Code2,
+  FileCheck2,
+  Layers,
+  ShieldCheck,
+  Send,
 } from "lucide-react";
 
 export default function DashboardPage() {
   const [jobs, setJobs] = useState<Job[]>([]);
-  const [applicationsCount, setApplicationsCount] = useState<number>(0);
-  const [selectedJob, setSelectedJob] = useState<Job | null>(null);
-  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
-  const [applyingJobId, setApplyingJobId] = useState<string | null>(null);
-  const [isIngesting, setIsIngesting] = useState(false);
-  const [viewMode, setViewMode] = useState<ViewMode>("grid");
+  const [applicationsCount, setApplicationsCount] = useState(0);
+  const [platformsCount, setPlatformsCount] = useState(0);
+  const [activePlatformsCount, setActivePlatformsCount] = useState(0);
+  const [profile, setProfile] = useState<CandidateProfile | null>(null);
+  const [isSearching, setIsSearching] = useState(false);
+  const [searchDone, setSearchDone] = useState(false);
 
-  // Cargar vacantes reales y aplicaciones reales desde storage en el cliente
   useEffect(() => {
+    // 1. Cargar vacantes existentes
     fetch("/api/ingestion/run")
       .then((res) => res.json())
       .then((data) => {
-        if (data.success && data.jobs && data.jobs.length > 0) {
-          setJobs(data.jobs);
+        if (data.success && data.jobs?.length > 0) {
+          setJobs(data.jobs.filter((j: Job) => !j.isApplied && !j.isDismissed));
         }
       })
-      .catch(() => {});
+      .catch(() => { });
 
+    // 2. Cargar conteo de postulaciones
     fetch("/api/applications")
       .then((res) => res.json())
       .then((data) => {
@@ -49,294 +49,201 @@ export default function DashboardPage() {
           setApplicationsCount(data.applications.length);
         }
       })
-      .catch(() => {});
+      .catch(() => { });
+
+    // 3. Cargar perfil del candidato
+    fetch("/api/profile")
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.success && data.profile) {
+          setProfile(data.profile);
+        }
+      })
+      .catch(() => { });
+
+    // 4. Cargar plataformas
+    fetch("/api/platforms")
+      .then((res) => res.json())
+      .then((data) => {
+        if (data.success && Array.isArray(data.platforms)) {
+          setPlatformsCount(data.platforms.length);
+          setActivePlatformsCount(data.platforms.filter((p: PortalConfig) => p.enabled).length);
+        }
+      })
+      .catch(() => { });
   }, []);
 
-  const handleRunLiveIngestion = async () => {
-    setIsIngesting(true);
+  const handleSearch = async () => {
+    setIsSearching(true);
+    setSearchDone(false);
     try {
       const res = await fetch("/api/ingestion/run", { method: "POST" });
       const data = await res.json();
       if (data.success && Array.isArray(data.jobs)) {
-        setJobs(data.jobs);
+        setJobs(data.jobs.filter((j: Job) => !j.isApplied && !j.isDismissed));
+        setSearchDone(true);
       }
     } catch (err) {
       console.error(err);
     } finally {
-      setIsIngesting(false);
+      setIsSearching(false);
     }
   };
 
-  const handleOpenDetails = (job: Job) => {
-    setSelectedJob(job);
-    setIsDrawerOpen(true);
-  };
-
-  const handleAutoApply = async (job: Job, targetCvId?: CVId) => {
-    setApplyingJobId(job.id);
-    try {
-      const res = await fetch("/api/apply/real", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          jobId: job.id,
-          jobUrl: job.sourceUrl,
-          companyName: job.company,
-          jobTitle: job.title,
-          cvRegion: targetCvId || job.assignedCvId,
-          coverLetterText: job.generatedCoverLetter,
-          dryRun: false,
-        }),
-      });
-
-      if (res.ok) {
-        // Quitar de la vista del dashboard de inmediato al postularse
-        setJobs((prev) => prev.filter((j) => j.id !== job.id));
-        setApplicationsCount((prev) => prev + 1);
-        if (selectedJob?.id === job.id) {
-          setSelectedJob(null);
-          setIsDrawerOpen(false);
-        }
-      }
-    } catch (err) {
-      console.error(err);
-    } finally {
-      setApplyingJobId(null);
-    }
-  };
-
-  const handleMarkManualApplied = async (job: Job, targetCvId?: CVId) => {
-    try {
-      const res = await fetch("/api/applications", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          jobId: job.id,
-          jobTitle: job.title,
-          company: job.company,
-          location: job.location,
-          modality: job.modality,
-          cvUsed: targetCvId || job.assignedCvId,
-          sourcePlatform: job.sourcePlatform,
-          portalUrl: job.sourceUrl,
-          notes: "Postulación manual realizada por Diego directamente",
-        }),
-      });
-
-      if (res.ok) {
-        // Quitar de la vista del dashboard de inmediato al registrar postulación
-        setJobs((prev) => prev.filter((j) => j.id !== job.id));
-        setApplicationsCount((prev) => prev + 1);
-        if (selectedJob?.id === job.id) {
-          setSelectedJob(null);
-          setIsDrawerOpen(false);
-        }
-      }
-    } catch (err) {
-      console.error("Error al registrar postulación manual:", err);
-    }
-  };
-
-  const handleDismissJob = async (job: Job) => {
-    // Quitar de inmediato de la lista para feedback instantáneo
-    setJobs((prev) => prev.filter((j) => j.id !== job.id));
-    if (selectedJob?.id === job.id) {
-      setSelectedJob(null);
-      setIsDrawerOpen(false);
-    }
-    try {
-      await fetch("/api/jobs/dismiss", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          jobId: job.id,
-          company: job.company,
-          title: job.title,
-          sourceUrl: job.sourceUrl,
-        }),
-      });
-    } catch (err) {
-      console.error("Error al descartar oferta:", err);
-    }
-  };
-
-  // Solo mostrar vacantes disponibles: no postuladas y no descartadas
-  const availableJobs = jobs.filter((j) => !j.isApplied && !j.isDismissed);
-  const total = availableJobs.length;
-  const highMatchJobs = availableJobs.filter((j) => j.matchScore >= 70);
-  const remoteCount = availableJobs.filter((j) => j.modality === "REMOTE").length;
-  const hybridCount = availableJobs.filter((j) => j.modality === "HYBRID").length;
-  const esCvs = availableJobs.filter((j) => j.assignedCvId === "CV_ES").length;
-  const coCvs = availableJobs.filter((j) => j.assignedCvId === "CV_CO").length;
+  const available = jobs.filter((j) => !j.isApplied && !j.isDismissed);
+  const remoteCount = available.filter((j) => j.modality === "REMOTE").length;
+  const hybridCount = available.filter((j) => j.modality === "HYBRID").length;
 
   return (
     <div className="space-y-8">
-      {/* Top Hero Banner */}
+      {/* Hero Banner Informativo */}
       <div className="relative overflow-hidden rounded-2xl border border-slate-800 bg-gradient-to-r from-blue-950/40 via-slate-900 to-indigo-950/30 p-6 sm:p-8 shadow-xl">
-        <div className="relative z-10 max-w-3xl space-y-3">
+        <div className="relative z-10 max-w-3xl space-y-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/10 border border-blue-500/20 text-xs font-semibold text-blue-400">
-            <Sparkles className="w-3.5 h-3.5" /> Motor Autónomo de Empleos Frontend Activo
+            <Sparkles className="w-3.5 h-3.5" />
+            Centro de Control & Búsqueda Inteligente
           </div>
           <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-white">
-            Búsqueda, Scoring de IA y Postulación 100% Automática
+            Scout de Vacantes Frontend en Español
           </h1>
           <p className="text-sm text-slate-300 leading-relaxed">
-            Rastreo en tiempo real en Greenhouse, Lever, RemoteOK y Remotive. 
-            El motor regional despacha tu <strong>CV Española 🇪🇸</strong> o <strong>CV Colombiana 🇨🇴</strong> con cero margen de error, 
-            notificando cada postulación a tu canal de <strong>Discord</strong>.
+            Rastrea simultáneamente en <strong>Google, LinkedIn, InfoJobs, CompuTrabajo, Get on Board, PeakU, Torre, Domestika</strong> y en los portales ATS de más de <strong>40 empresas tecnológicas</strong> (GFT, Indra, Globant, MercadoLibre, Cabify, Stripe, Vercel, etc.).
           </p>
 
           <div className="flex flex-wrap items-center gap-3 pt-2">
-            <Link href="/jobs">
-              <Button size="sm" rightIcon={<ArrowRight className="w-3.5 h-3.5" />}>
-                Explorar Todas las Vacantes ({total})
-              </Button>
-            </Link>
             <Button
               size="sm"
-              variant="outline"
-              onClick={handleRunLiveIngestion}
-              isLoading={isIngesting}
-              leftIcon={<Radio className="w-3.5 h-3.5 text-emerald-400" />}
+              variant="primary"
+              onClick={handleSearch}
+              isLoading={isSearching}
+              leftIcon={<Search className="w-4 h-4" />}
+              className="shadow-lg shadow-blue-500/20"
             >
-              {isIngesting ? "Rastreando APIs..." : "Rastrear Vacantes en Vivo"}
+              {isSearching
+                ? "Rastreando portales y empresas..."
+                : "🔍 Buscar Vacantes en Todas las Fuentes"}
             </Button>
+            <Link href="/jobs">
+              <Button
+                size="sm"
+                variant="outline"
+                rightIcon={<ArrowRight className="w-3.5 h-3.5" />}
+              >
+                Ver Vacantes Disponibles ({available.length})
+              </Button>
+            </Link>
           </div>
         </div>
       </div>
 
-      {/* Metrics Row */}
+      {/* Mensaje de Resultado de Búsqueda */}
+      {searchDone && (
+        <div className="p-3 bg-emerald-500/10 border border-emerald-500/30 rounded-xl text-xs text-emerald-400 flex items-center justify-between gap-2 animate-in fade-in">
+          <div className="flex items-center gap-2">
+            <CheckCircle2 className="w-4 h-4" />
+            <span>
+              ¡Búsqueda masiva finalizada! Hay <strong>{available.length} vacantes</strong> listas con afinidad técnica $\ge 70\%$ basadas en tu CV.
+            </span>
+          </div>
+          <Link href="/jobs">
+            <span className="underline font-semibold hover:text-emerald-300 text-xs">
+              Ir al catálogo de vacantes →
+            </span>
+          </Link>
+        </div>
+      )}
+
+      {/* Tarjetas de Métricas Informativas */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         <StatCard
-          title="Vacantes Rastreadas"
-          value={total}
+          title="Vacantes Encontradas"
+          value={available.length}
           subtitle={`${remoteCount} Remotas • ${hybridCount} Híbridas`}
           icon={<Briefcase className="w-5 h-5" />}
           variant="blue"
         />
         <StatCard
-          title="Postuladas 100% Auto"
+          title="Postuladas"
           value={applicationsCount}
-          subtitle="Formularios ATS completados"
-          icon={<CheckCircle2 className="w-5 h-5" />}
+          subtitle="En seguimiento activo"
+          icon={<Send className="w-5 h-5" />}
           variant="emerald"
         />
         <StatCard
-          title="Afinidad Alta (≥70%)"
-          value={highMatchJobs.length}
-          subtitle="Stack Frontend compatible"
+          title="Afinidad Alta"
+          value={available.filter((j) => j.matchScore >= 85).length}
+          subtitle="Score $\ge 85\%$ con tu perfil"
           icon={<Zap className="w-5 h-5" />}
           variant="amber"
         />
         <StatCard
-          title="Canal Discord"
-          value="Conectado"
-          subtitle="Alertas enriquecidas activas"
-          icon={<Bell className="w-5 h-5" />}
+          title="Fuentes Conectadas"
+          value={`${activePlatformsCount} / ${platformsCount}`}
+          subtitle="Portales y empresas activos"
+          icon={<Globe className="w-5 h-5" />}
           variant="purple"
         />
       </div>
 
-      {/* Regional CV Dispatcher Status Banner */}
-      <div className="p-4 rounded-xl border border-slate-800 bg-[#0d1527] flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <div className="flex items-center gap-3">
-          <div className="p-2.5 rounded-lg bg-blue-500/10 text-blue-400 border border-blue-500/20">
-            <ShieldCheck className="w-5 h-5" />
-          </div>
-          <div>
-            <h4 className="text-sm font-bold text-slate-100">
-              Despacho Geográfico de CVs Activo
-            </h4>
-            <p className="text-xs text-slate-400">
-              {esCvs} vacantes asignadas a 🇪🇸 CV España • {coCvs} vacantes asignadas a 🇨🇴 CV Colombia
-            </p>
-          </div>
-        </div>
+      {/* Sección 1: Perfil Activo del Candidato */}
+      {profile && (
+        <div className="p-6 rounded-2xl border border-slate-800 bg-[#0d1527] space-y-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-slate-800 pb-4">
+            <div>
+              <div className="flex items-center gap-2">
+                <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 shadow-sm shadow-emerald-500/50" />
+                <h2 className="text-base font-bold text-white">
+                  Candidato Activo: {profile.fullName}
+                </h2>
+              </div>
+              <p className="text-xs text-slate-400 mt-1">
+                {profile.roleTitle} • {profile.location} • {profile.yearsOfExperience} años de experiencia
+              </p>
+            </div>
 
-        <div className="flex items-center gap-2">
-          <span className="text-xs px-2.5 py-1 rounded bg-slate-800 border border-slate-700 text-slate-300">
-            🇪🇸 DNI/NIE • España & UE
-          </span>
-          <span className="text-xs px-2.5 py-1 rounded bg-slate-800 border border-slate-700 text-slate-300">
-            🇨🇴 Cédula • LATAM & Remoto
-          </span>
-        </div>
-      </div>
-
-      {/* High Match Section */}
-      <div className="space-y-4">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-          <div>
-            <h2 className="text-lg font-bold text-white flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-emerald-400" />
-              Ofertas Recomendadas con Alta Afinidad (≥70% Match)
-            </h2>
-            <p className="text-xs text-slate-400">
-              Vacantes reales analizadas que cumplen tus criterios técnicos y de contratación
-            </p>
-          </div>
-
-          <div className="flex items-center gap-3">
-            <ViewModeToggle mode={viewMode} onChange={setViewMode} />
-            <Link
-              href="/jobs"
-              className="text-xs font-semibold text-blue-400 hover:text-blue-300 flex items-center gap-1"
-            >
-              Ver todas ({total}) <ArrowRight className="w-3.5 h-3.5" />
+            <Link href="/settings">
+              <Button
+                size="sm"
+                variant="outline"
+                leftIcon={<Sliders className="w-3.5 h-3.5 text-blue-400" />}
+                className="text-xs"
+              >
+                Configurar Perfil & CV
+              </Button>
             </Link>
           </div>
+
+          <div>
+            <div className="flex items-center justify-between mb-2">
+              <span className="text-xs font-semibold text-slate-300 flex items-center gap-1.5">
+                <Code2 className="w-3.5 h-3.5 text-purple-400" />
+                Tecnologías del CV usadas para el Matchmaking ({profile.technologies.length}):
+              </span>
+              {profile.cvFileName && (
+                <span className="text-[11px] text-slate-500">
+                  CV: {profile.cvFileName}
+                </span>
+              )}
+            </div>
+
+            <div className="flex flex-wrap gap-1.5">
+              {profile.technologies.slice(0, 16).map((tech) => (
+                <span
+                  key={tech}
+                  className="px-2.5 py-1 text-[11px] font-semibold rounded-lg bg-blue-500/10 border border-blue-500/20 text-blue-300"
+                >
+                  {tech}
+                </span>
+              ))}
+              {profile.technologies.length > 16 && (
+                <span className="px-2.5 py-1 text-[11px] text-slate-400 font-semibold rounded-lg bg-slate-800 border border-slate-700">
+                  +{profile.technologies.length - 16} más
+                </span>
+              )}
+            </div>
+          </div>
         </div>
-
-        {highMatchJobs.length === 0 ? (
-          <div className="text-center py-12 border border-dashed border-slate-800 rounded-xl bg-[#0d1527]/40 space-y-3">
-            <p className="text-sm text-slate-400">No hay vacantes con afinidad ≥70% todavía.</p>
-            <Button
-              size="sm"
-              variant="primary"
-              onClick={handleRunLiveIngestion}
-              isLoading={isIngesting}
-              leftIcon={<Radio className="w-3.5 h-3.5 text-white" />}
-              className="text-xs"
-            >
-              Ejecutar Rastreo de Vacantes en Vivo
-            </Button>
-          </div>
-        ) : viewMode === "grid" ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {highMatchJobs.slice(0, 6).map((job) => (
-              <JobCard
-                key={job.id}
-                job={job}
-                onViewDetails={handleOpenDetails}
-                onAutoApply={handleAutoApply}
-                onMarkManualApplied={handleMarkManualApplied}
-                onDismiss={handleDismissJob}
-                isApplying={applyingJobId === job.id}
-              />
-            ))}
-          </div>
-        ) : (
-          <JobTable
-            jobs={highMatchJobs.slice(0, 10)}
-            onViewDetails={handleOpenDetails}
-            onAutoApply={handleAutoApply}
-            onMarkManualApplied={handleMarkManualApplied}
-            onDismiss={handleDismissJob}
-            applyingJobId={applyingJobId}
-          />
-        )}
-      </div>
-
-      {/* Job Detail Drawer */}
-      <JobDetailDrawer
-        job={selectedJob}
-        isOpen={isDrawerOpen}
-        onClose={() => setIsDrawerOpen(false)}
-        onAutoApply={handleAutoApply}
-        onMarkManualApplied={handleMarkManualApplied}
-        onDismiss={handleDismissJob}
-        isApplying={selectedJob ? applyingJobId === selectedJob.id : false}
-      />
+      )}
     </div>
   );
 }

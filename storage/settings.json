@@ -1,8 +1,0 @@
-{
-  "webhookUrl": "https://discord.com/api/webhooks/1549418546327593121/9EimY7LwrpwmlQU1UaZWOdpHMUzeKE-1N79WVaLXViozAdWLCAhJFabrOHVCMyhOb76U",
-  "minScore": 70,
-  "notifyOnApply": true,
-  "notifyOnAmbiguity": true,
-  "autoApplyEnabled": true,
-  "maxPerDay": 100
-}
