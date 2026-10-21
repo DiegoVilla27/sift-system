@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "id": "dismissed-1790876576500",
+    "jobId": "job-getonboard-24-1790876387350",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Full-Stack Developer (Java/angular/.NET)",
+    "portalUrl": "https://www.getonbrd.com/jobs/full-stack-developer-java-angular-net-42labs-santiago",
+    "dismissedAt": "2026-10-01T17:42:56.500Z"
+  },
+  {
+    "id": "dismissed-1790876526219",
+    "jobId": "job-linkedin-5-1790876387349",
+    "company": "Makai Labs",
+    "jobTitle": "Senior Next.js Developer",
+    "portalUrl": "https://co.linkedin.com/jobs/view/senior-next-js-developer-at-makai-labs-4473541253",
+    "dismissedAt": "2026-10-01T17:42:06.219Z"
+  },
+  {
+    "id": "dismissed-1790876518389",
+    "jobId": "job-linkedin-4-1790876387349",
+    "company": "Makai Labs",
+    "jobTitle": "Senior Frontend Software Engineer - Next.js",
+    "portalUrl": "https://co.linkedin.com/jobs/view/senior-frontend-software-engineer-next-js-at-makai-labs-4473955372",
+    "dismissedAt": "2026-10-01T17:41:58.389Z"
+  },
+  {
+    "id": "dismissed-1790876512014",
+    "jobId": "job-linkedin-3-1790876387349",
+    "company": "BairesDev",
+    "jobTitle": "Desarrollador React Frontend - Trabajo Remoto",
+    "portalUrl": "https://co.linkedin.com/jobs/view/desarrollador-react-frontend-trabajo-remoto-at-bairesdev-4472547780",
+    "dismissedAt": "2026-10-01T17:41:52.014Z"
+  },
+  {
+    "id": "dismissed-1790876509808",
+    "jobId": "job-linkedin-2-1790876387349",
+    "company": "INNOCV Solutions",
+    "jobTitle": "Frontend Developer (React/Angular)",
+    "portalUrl": "https://es.linkedin.com/jobs/view/frontend-developer-react-angular-at-innocv-solutions-4468402044",
+    "dismissedAt": "2026-10-01T17:41:49.808Z"
+  },
+  {
+    "id": "dismissed-1789648454669",
+    "jobId": "job-tecnoempleo-16-1789648310378",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Senior Devops Sre Con Foco En Ci Cd Frontend Socia",
+    "portalUrl": "https://www.tecnoempleo.com/senior-devops-sre-con-foco-en-ci-cd-frontend-socia/sdte-qe/rf-b0c210734254732a1840",
+    "dismissedAt": "2026-09-17T12:34:14.669Z"
+  },
+  {
+    "id": "dismissed-1789648444588",
+    "jobId": "job-computrabajo-7-1789648310378",
+    "company": "PROFITLINE SAS",
+    "jobTitle": "Desarrollador Backend Junior/Node.js/APIs/SQL",
+    "portalUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-juniornodejsapissql-en-bogota-dc-9003BB146F84E15061373E686DCF3405",
+    "dismissedAt": "2026-09-17T12:34:04.588Z"
+  },
+  {
+    "id": "dismissed-1789648317880",
+    "jobId": "job-linkedin-0-1789648310377",
+    "company": "BairesDev",
+    "jobTitle": "Desarrollador Senior React + TypeScript - Trabajo Remoto | REF#281932",
+    "portalUrl": "https://es.linkedin.com/jobs/view/desarrollador-senior-react-%2B-typescript-trabajo-remoto-ref%23281932-at-bairesdev-4140300413",
+    "dismissedAt": "2026-09-17T12:31:57.880Z"
+  },
+  {
+    "id": "dismissed-1789648160673",
+    "jobId": "job-getonboard-48-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Desarrollador/a Full-Stack – Angular / .NET / Azure (Perú)",
+    "portalUrl": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima",
+    "dismissedAt": "2026-09-17T12:29:20.673Z"
+  },
+  {
+    "id": "dismissed-1789648155357",
+    "jobId": "job-getonboard-47-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Desarrollador Full-Stack (React, Spring Boot, Oracle DB)",
+    "portalUrl": "https://www.getonbrd.com/jobs/desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
+    "dismissedAt": "2026-09-17T12:29:15.357Z"
+  },
+  {
+    "id": "dismissed-1789648140866",
+    "jobId": "job-getonboard-45-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Desarrollador C#/.NET y Angular Mexico",
+    "portalUrl": "https://www.getonbrd.com/jobs/desarrollador-c-net-y-angular-mexico-bc-tecnologia-mexicali",
+    "dismissedAt": "2026-09-17T12:29:00.866Z"
+  },
+  {
+    "id": "dismissed-1789648135268",
+    "jobId": "job-getonboard-44-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Full-Stack Developer: React & Node.js",
+    "portalUrl": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
+    "dismissedAt": "2026-09-17T12:28:55.268Z"
+  },
+  {
+    "id": "dismissed-1789648123802",
+    "jobId": "job-getonboard-43-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Front-end Engineer",
+    "portalUrl": "https://www.getonbrd.com/jobs/frontend-engineer-cumplo-santiago",
+    "dismissedAt": "2026-09-17T12:28:43.802Z"
+  },
+  {
+    "id": "dismissed-1789648118347",
+    "jobId": "job-getonboard-42-1789567403326",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Full-Stack Senior (Java Spring Boot + Angular)",
+    "portalUrl": "https://www.getonbrd.com/jobs/full-stack-senior-java-spring-boot-angular-3it-santiago",
+    "dismissedAt": "2026-09-17T12:28:38.347Z"
+  },
+  {
+    "id": "dismissed-1789648113766",
+    "jobId": "job-getonboard-41-1789567403325",
+    "company": "Empresa en Get on Board",
+    "jobTitle": "Senior Full-Stack Engineer — .NET y React",
+    "portalUrl": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-net-y-react-maxxa-remote",
+    "dismissedAt": "2026-09-17T12:28:33.766Z"
+  },
+  {
+    "id": "dismissed-1789648080906",
+    "jobId": "job-linkedin-11-1789567403325",
+    "company": "BairesDev",
+    "jobTitle": "React Frontend Engineer (Redux) - Remote Work | REF#303963",
+    "portalUrl": "https://co.linkedin.com/jobs/view/react-frontend-engineer-redux-remote-work-ref%23303963-at-bairesdev-4464699712",
+    "dismissedAt": "2026-09-17T12:28:00.906Z"
+  },
+  {
+    "id": "dismissed-1789648075151",
+    "jobId": "job-tecnoempleo-70-1789569029985",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "React Front End Developer 4 Months Contract Talan",
+    "portalUrl": "https://www.tecnoempleo.com/react-front-end-developer-4-months-contract-talan/typescript-next/rf-97b41c6fb2b873eae241",
+    "dismissedAt": "2026-09-17T12:27:55.151Z"
+  },
+  {
+    "id": "dismissed-1789648071048",
+    "jobId": "job-tecnoempleo-66-1789569029985",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Frontend Developer With Italian Ey",
+    "portalUrl": "https://www.tecnoempleo.com/frontend-developer-with-italian-ey/typescript-nodejs/rf-373b168eb25a835b6b4a",
+    "dismissedAt": "2026-09-17T12:27:51.048Z"
+  },
+  {
+    "id": "dismissed-1789648052880",
+    "jobId": "job-tecnoempleo-56-1789569029985",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Graduate Programme 2027 Software Engineer Frontend",
+    "portalUrl": "https://www.tecnoempleo.com/graduate-programme-2027-software-engineer-frontend/react-typescript/rf-82c11c6272d8a39bdf4c",
+    "dismissedAt": "2026-09-17T12:27:32.880Z"
+  },
+  {
+    "id": "dismissed-1789648044208",
+    "jobId": "job-tecnoempleo-48-1789569029984",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Front End Architect Plexus",
+    "portalUrl": "https://www.tecnoempleo.com/front-end-architect-plexus/angular-html5/rf-361515c0524b43c7ba43",
+    "dismissedAt": "2026-09-17T12:27:24.208Z"
+  },
+  {
+    "id": "dismissed-1789647970810",
+    "jobId": "job-linkedin-11-1789569029983",
+    "company": "Devlane",
+    "jobTitle": "Sr. Frontend Engineer - React/Typescript",
+    "portalUrl": "https://co.linkedin.com/jobs/view/sr-frontend-engineer-react-typescript-at-devlane-4460029417",
+    "dismissedAt": "2026-09-17T12:26:10.810Z"
+  },
+  {
+    "id": "dismissed-1789647965469",
+    "jobId": "job-linkedin-8-1789569029983",
+    "company": "GMV",
+    "jobTitle": "Frontend Software Engineer (Angular)",
+    "portalUrl": "https://es.linkedin.com/jobs/view/frontend-software-engineer-angular-at-gmv-4456326720",
+    "dismissedAt": "2026-09-17T12:26:05.469Z"
+  },
+  {
+    "id": "dismissed-1789647893901",
+    "jobId": "job-linkedin-6-1789569029983",
+    "company": "Cívica",
+    "jobTitle": "Frontend Developer - Angular + Nx",
+    "portalUrl": "https://es.linkedin.com/jobs/view/frontend-developer-angular-%2B-nx-at-c%C3%ADvica-4467731100",
+    "dismissedAt": "2026-09-17T12:24:53.901Z"
+  },
+  {
+    "id": "dismissed-1789647874700",
+    "jobId": "job-linkedin-3-1789569029983",
+    "company": "Ailin.health",
+    "jobTitle": "Frontend React Developer",
+    "portalUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-at-ailin-health-4462414183",
+    "dismissedAt": "2026-09-17T12:24:34.700Z"
+  },
+  {
+    "id": "dismissed-1789647834952",
+    "jobId": "job-linkedin-0-1789569029982",
+    "company": "knowmad mood",
+    "jobTitle": "Frontend React Developer | Ecommerce, Telco &amp; Optimizely",
+    "portalUrl": "https://es.linkedin.com/jobs/view/frontend-react-developer-ecommerce-telco-optimizely-at-knowmad-mood-4464110470",
+    "dismissedAt": "2026-09-17T12:23:54.952Z"
+  },
+  {
+    "id": "dismissed-1789647829545",
+    "jobId": "job-tecnoempleo-67-1789570111723",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Frontend Developer Vuejs Nuxt Sopra Steria",
+    "portalUrl": "https://www.tecnoempleo.com/frontend-developer-vuejs-nuxt-sopra-steria/vue/rf-9ea91f97425dc37a0744",
+    "dismissedAt": "2026-09-17T12:23:49.545Z"
+  },
+  {
+    "id": "dismissed-1789647827900",
+    "jobId": "job-tecnoempleo-63-1789570111723",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Desarrollador Frontend Vuejs Michael Page",
+    "portalUrl": "https://www.tecnoempleo.com/desarrollador-frontend-vuejs-michael-page/html-css/rf-d18b13be92f0d316744e",
+    "dismissedAt": "2026-09-17T12:23:47.900Z"
+  },
+  {
+    "id": "dismissed-1789647826516",
+    "jobId": "job-tecnoempleo-55-1789570111723",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Frontend Senior Developer Shopify Michael Page",
+    "portalUrl": "https://www.tecnoempleo.com/frontend-senior-developer-shopify-michael-page/html-css/rf-9f461cbf922523cf2a40",
+    "dismissedAt": "2026-09-17T12:23:46.516Z"
+  },
+  {
+    "id": "dismissed-1789647824653",
+    "jobId": "job-tecnoempleo-52-1789570111723",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Senior Frontend Engineer Nuxtjs Vue 3 Social You",
+    "portalUrl": "https://www.tecnoempleo.com/senior-frontend-engineer-nuxtjs-vue-3-social-you/nuxtjs-composition-api/rf-59231099629673896c4e",
+    "dismissedAt": "2026-09-17T12:23:44.653Z"
+  },
+  {
+    "id": "dismissed-1789647803205",
+    "jobId": "job-tecnoempleo-49-1789570111723",
+    "company": "Empresa en Tecnoempleo",
+    "jobTitle": "Lead Ux Designer Frontend Engineer",
+    "portalUrl": "https://www.tecnoempleo.com/lead-ux-designer-frontend-engineer/vue-d3/rf-5adf10d332e2a3357949",
+    "dismissedAt": "2026-09-17T12:23:23.205Z"
+  },
+  {
+    "id": "dismissed-1789647796879",
+    "jobId": "job-computrabajo-38-1789570111721",
+    "company": "Empresa en CompuTrabajo",
+    "jobTitle": "Ingeniero de Sistemas Desarrollador Full Stack /Flutter / .NET / SQL Server",
+    "portalUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-sistemas-desarrollador-full-stack-flutter-net-sql-server-en-monteria-6D0060A62AEF934761373E686DCF3405",
+    "dismissedAt": "2026-09-17T12:23:16.879Z"
+  },
+  {
+    "id": "dismissed-1789647791118",
+    "jobId": "job-computrabajo-33-1789570111721",
+    "company": "Empresa en CompuTrabajo",
+    "jobTitle": "L&#xED;der T&#xE9;cnico FullStack .Net Angular AWS",
+    "portalUrl": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-fullstack-net-angular-aws-en-bogota-dc-0BF2C622B9FB6CBE61373E686DCF3405",
+    "dismissedAt": "2026-09-17T12:23:11.118Z"
+  },
+  {
+    "id": "dismissed-1789647774279",
+    "jobId": "job-linkedin-18-1789570111721",
+    "company": "Kraken",
+    "jobTitle": "Senior Software Engineer - Frontend - Consumer",
+    "portalUrl": "https://co.linkedin.com/jobs/view/senior-software-engineer-frontend-consumer-at-kraken-4437061570",
+    "dismissedAt": "2026-09-17T12:22:54.279Z"
+  },
+  {
+    "id": "dismissed-1789647767093",
+    "jobId": "job-linkedin-17-1789570111721",
+    "company": "Monks",
+    "jobTitle": "Senior Frontend Engineer",
+    "portalUrl": "https://co.linkedin.com/jobs/view/senior-frontend-engineer-at-monks-4449432165",
+    "dismissedAt": "2026-09-17T12:22:47.093Z"
+  },
+  {
+    "id": "dismissed-1789647646732",
+    "jobId": "job-linkedin-9-1789570111721",
+    "company": "BairesDev",
+    "jobTitle": "Front-End Developer - Remote Work | REF#8676",
+    "portalUrl": "https://co.linkedin.com/jobs/view/front-end-developer-remote-work-ref%238676-at-bairesdev-4258061451",
+    "dismissedAt": "2026-09-17T12:20:46.732Z"
+  }
+]
